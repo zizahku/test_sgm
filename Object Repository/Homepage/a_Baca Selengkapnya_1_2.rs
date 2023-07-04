@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Baca Selengkapnya_1_2</name>
+   <tag></tag>
+   <elementGuidId>f12a338b-0f41-43ce-a348-446650a80e4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-ke-1']/div/div/div[2]/div/div[3]/div/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f31be0f8-efee-4977-bb66-2eeee56740ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/artikel/1-tahun/kesehatan/dbd-pada-anak</value>
+      <webElementGuid>88ee19e8-da24-471d-8ffa-920c4fd10986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Baca Selengkapnya ></value>
+      <webElementGuid>32307111-3b04-4313-850a-233b098f49b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-ke-1&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 big-box-left-with-list&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;wrap-hot-artikel&quot;]/div[@class=&quot;wrap-list-img-left&quot;]/div[@class=&quot;txt-art&quot;]/div[@class=&quot;r-more&quot;]/a[2]</value>
+      <webElementGuid>447fe3ec-1887-4aae-ac4b-35231a68eaae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-ke-1']/div/div/div[2]/div/div[3]/div/div/a[2]</value>
+      <webElementGuid>5ea7a9ae-d9cb-4aea-98cb-c29566859ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Baca Selengkapnya >')])[5]</value>
+      <webElementGuid>b324e01a-1fdf-4612-8c8e-edf244515855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kesehatan'])[1]/following::a[2]</value>
+      <webElementGuid>38d5cc4b-9815-43cc-9031-9b0fed5f733d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kenali Gejala DBD pada Anak,...'])[1]/following::a[2]</value>
+      <webElementGuid>dc991d6b-0ce6-4b9e-9c0d-4a1b1632a703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beef Creamy Curry Udon'])[1]/preceding::a[2]</value>
+      <webElementGuid>dc7172b2-0146-4f62-8437-8f27120ac1a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resep'])[4]/preceding::a[2]</value>
+      <webElementGuid>e9496453-2825-496d-bdb3-53a1d6712392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/artikel/1-tahun/kesehatan/dbd-pada-anak')])[4]</value>
+      <webElementGuid>a7d9c2d7-3adf-4883-8ebd-515f5319ed41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/a[2]</value>
+      <webElementGuid>8c640ec7-ac51-4425-9c99-33842a86513a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/artikel/1-tahun/kesehatan/dbd-pada-anak' and (text() = 'Baca Selengkapnya >' or . = 'Baca Selengkapnya >')]</value>
+      <webElementGuid>f5882490-4ee6-4448-a6c4-2a3e52bd0db0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

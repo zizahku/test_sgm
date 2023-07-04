@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Baca Selengkapnya</name>
+   <tag></tag>
+   <elementGuidId>bdabbdcd-64de-4e34-b07e-1b44e0d9a638</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-ke-1']/div/div/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wrap-list-img-left > div.txt-art > div.r-more</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8e75d728-b64a-4aff-921b-d6f2a76e11ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>r-more</value>
+      <webElementGuid>cbeabb8e-de1b-4095-9bbb-27c25a3f7391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Baca Selengkapnya ></value>
+      <webElementGuid>a12deeee-a60a-4f43-bc78-f393a48851ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-ke-1&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 big-box-left-with-list&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;wrap-hot-artikel&quot;]/div[@class=&quot;wrap-list-img-left&quot;]/div[@class=&quot;txt-art&quot;]/div[@class=&quot;r-more&quot;]</value>
+      <webElementGuid>be11ef8b-483b-4f05-9a13-62830929b12f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-ke-1']/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>29502eef-ff9d-4026-9e59-53f19a59cd2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stimulasi'])[1]/following::div[1]</value>
+      <webElementGuid>72871094-2629-425c-a94b-3a3ac39acd3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baca Selengkapnya >'])[2]/following::div[7]</value>
+      <webElementGuid>5d6507df-2b16-4a64-a18d-f152018e9b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stimulasi'])[2]/preceding::div[2]</value>
+      <webElementGuid>f72dc8b8-0a92-4c3e-8904-f20b45772bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>dd86a165-a858-4fb2-b4ea-15efc7392346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Baca Selengkapnya >' or . = 'Baca Selengkapnya >')]</value>
+      <webElementGuid>0e4d9ad4-a8a8-48b2-bd39-3afb7b280770</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

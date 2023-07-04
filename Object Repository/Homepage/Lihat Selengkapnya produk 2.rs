@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Lihat Selengkapnya produk 2</name>
+   <tag></tag>
+   <elementGuidId>6cf64a31-4a45-4f22-adef-a21c43b73f3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-container']/div[5]/div/div[2]/div/div/div/div[2]/div/div/div[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9418659b-fb10-468f-82c5-a4bfa9576f3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-high-red btn-lg btn-block</value>
+      <webElementGuid>7a0f862f-514c-4d66-bdf8-28cad4e1e261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/produk/sgm-eksplor-1-plus</value>
+      <webElementGuid>e7f66847-4e44-4efd-bd37-1e789b33b664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4629e096-21b2-466f-ba75-676e2a20dcb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a50f2813-db81-459e-bafc-bf53bbf839bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Selengkapnya</value>
+      <webElementGuid>72634279-e416-49bc-8210-c709ada9e77b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-container&quot;)/div[@class=&quot;pimcore_area_col-slider pimcore_area_content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;slide-for-3-info slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;wrap-slide-for-3-info&quot;]/div[@class=&quot;action-art text-center&quot;]/a[@class=&quot;btn btn-high-red btn-lg btn-block&quot;]</value>
+      <webElementGuid>47954aae-dd90-4692-8301-bd057878cefa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-container']/div[5]/div/div[2]/div/div/div/div[2]/div/div/div[4]/a</value>
+      <webElementGuid>1f5757dc-df0c-4b9f-b094-343af1b292ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Lihat Selengkapnya')])[10]</value>
+      <webElementGuid>f8586467-a030-4dd0-a4dc-b2e41e8d444f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGM Eksplor 1+ dengan IronC'])[1]/following::a[1]</value>
+      <webElementGuid>514de40c-1141-49f5-b404-9866e009c044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Selengkapnya'])[9]/following::a[2]</value>
+      <webElementGuid>8c694811-f005-4a28-ba96-6d7de919ca84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGM Eksplor Gain Optigrow Pro-gress Maxx dengan IronC'])[1]/preceding::a[2]</value>
+      <webElementGuid>9452bdb7-89af-4ea5-add4-0415fae7423c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Selengkapnya'])[11]/preceding::a[2]</value>
+      <webElementGuid>ef738c36-e21b-45b4-9cd4-beb99dc69821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/produk/sgm-eksplor-1-plus')])[2]</value>
+      <webElementGuid>ada9ff07-8db9-42e3-9b89-2a60f7902715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[4]/a</value>
+      <webElementGuid>04d8f197-1c65-4ee0-95c9-e9009e4a756e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/produk/sgm-eksplor-1-plus' and (text() = 'Lihat Selengkapnya' or . = 'Lihat Selengkapnya')]</value>
+      <webElementGuid>50c0b13c-a24b-448f-9828-2ff26790ce10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

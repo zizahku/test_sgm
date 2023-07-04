@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_8 Cara Tepat Mengajari Anak Menggambar2_263ad3</name>
+   <tag></tag>
+   <elementGuidId>ec9f63c9-00d6-4635-a935-41b78cd3e69a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-ke-1']/div/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wrap-list-img-left > div.txt-art</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1a886bc6-52f5-4da2-9799-0f36fa645720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt-art</value>
+      <webElementGuid>4f01cd9d-56c3-4d37-81ae-464606e13d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>8 Cara Tepat Mengajari Anak Menggambar2 TahunStimulasiBaca Selengkapnya ></value>
+      <webElementGuid>81723aff-fb9d-4ca3-97b6-4dddad753806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-ke-1&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 big-box-left-with-list&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;wrap-hot-artikel&quot;]/div[@class=&quot;wrap-list-img-left&quot;]/div[@class=&quot;txt-art&quot;]</value>
+      <webElementGuid>f2c417d8-cace-44cb-b3de-f58eef451a6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-ke-1']/div/div/div[2]/div/div/div</value>
+      <webElementGuid>d3b5c8e3-3b8b-4fd3-ba2f-cbfbf2a1226e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baca Selengkapnya >'])[2]/following::div[5]</value>
+      <webElementGuid>d0dcd4fc-e5dd-486c-b0e6-057d83c4face</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baca Selengkapnya >'])[1]/following::div[6]</value>
+      <webElementGuid>eef2e5f0-ae2e-4368-803f-2823a9c50e0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>7130c4ee-fd3e-405a-91be-d3804f274941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '8 Cara Tepat Mengajari Anak Menggambar2 TahunStimulasiBaca Selengkapnya >' or . = '8 Cara Tepat Mengajari Anak Menggambar2 TahunStimulasiBaca Selengkapnya >')]</value>
+      <webElementGuid>7ff567b4-22fb-4eaa-8ab2-ddfdbcb54531</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

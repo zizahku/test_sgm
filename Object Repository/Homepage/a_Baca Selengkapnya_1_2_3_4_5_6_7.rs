@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Baca Selengkapnya_1_2_3_4_5_6_7</name>
+   <tag></tag>
+   <elementGuidId>ee6ad7a8-cc13-4548-8387-680a6c963e62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-ke-3']/div/div/div[2]/div/div[2]/div/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8ad4ec0c-90cc-4cb1-9788-1595877fbbf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/artikel/7-9-bulan/tumbuh-kembang/bayi-belum-tumbuh-gigi</value>
+      <webElementGuid>1d4a87cb-991e-4abd-8c22-add5a6eb5646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Baca Selengkapnya ></value>
+      <webElementGuid>a46a4a25-3c78-44f5-9ad7-5dc9d458a7be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-ke-3&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 big-box-left-with-list&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;wrap-hot-artikel&quot;]/div[@class=&quot;wrap-list-img-left&quot;]/div[@class=&quot;txt-art&quot;]/div[@class=&quot;r-more&quot;]/a[2]</value>
+      <webElementGuid>2ea8cc8d-3da3-4168-8830-93f47c13bc45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-ke-3']/div/div/div[2]/div/div[2]/div/div/a[2]</value>
+      <webElementGuid>c4176d47-9dd3-44dc-a1aa-c66794de5ef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Baca Selengkapnya >')])[14]</value>
+      <webElementGuid>f0167aa4-ee41-48fb-bf6d-2a14420144b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tumbuh Kembang'])[1]/following::a[2]</value>
+      <webElementGuid>0ed5fdb2-0715-425e-997d-a752058caab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Normalkah Bayi 9 Bulan Belum Tumbuh...'])[1]/following::a[2]</value>
+      <webElementGuid>7a7a0a43-be5d-486a-88fa-1d5966c0a02e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cara Mudah Menyendawakan Bayi Setelah...'])[1]/preceding::a[2]</value>
+      <webElementGuid>80e52b61-3f47-46b7-9378-ec817499fdea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perawatan Bayi'])[3]/preceding::a[2]</value>
+      <webElementGuid>f8944079-7902-4267-aa3d-a0bc6395c1e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/artikel/7-9-bulan/tumbuh-kembang/bayi-belum-tumbuh-gigi')])[4]</value>
+      <webElementGuid>c73b5132-e87d-4d56-bbde-b8f4a83e2193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div[2]/div/div/a[2]</value>
+      <webElementGuid>cccce957-695f-4ae5-967c-2db344c2c234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/artikel/7-9-bulan/tumbuh-kembang/bayi-belum-tumbuh-gigi' and (text() = 'Baca Selengkapnya >' or . = 'Baca Selengkapnya >')]</value>
+      <webElementGuid>0a9f8aee-a5d8-4e65-a118-ab5a34225b84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

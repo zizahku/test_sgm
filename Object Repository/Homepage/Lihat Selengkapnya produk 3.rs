@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Lihat Selengkapnya produk 3</name>
+   <tag></tag>
+   <elementGuidId>63061213-e73b-4ce7-aab3-f0656e7037c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-container']/div[5]/div/div[2]/div/div/div/div[3]/div/div/div[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>38b08822-9d39-42ff-8443-4f0be3b607ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-high-red btn-lg btn-block</value>
+      <webElementGuid>21dec34f-e6cc-418a-a133-03867c7ec32f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/produk/sgm-optigrow</value>
+      <webElementGuid>263af954-d96e-47d7-9170-811aa8bd2dd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1cbf3e2e-59f2-4e9e-9cb7-ea3aaee49672</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d8ec3176-e670-41e4-ab57-cd5820a39864</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Selengkapnya</value>
+      <webElementGuid>5d181069-2784-4b4d-a918-95429260b713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-container&quot;)/div[@class=&quot;pimcore_area_col-slider pimcore_area_content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;slide-for-3-info slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;wrap-slide-for-3-info&quot;]/div[@class=&quot;action-art text-center&quot;]/a[@class=&quot;btn btn-high-red btn-lg btn-block&quot;]</value>
+      <webElementGuid>dabd2d20-fc3d-48cf-8958-9b267411fa59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-container']/div[5]/div/div[2]/div/div/div/div[3]/div/div/div[4]/a</value>
+      <webElementGuid>d974249c-d117-43b3-abc1-bd35004d3057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Lihat Selengkapnya')])[11]</value>
+      <webElementGuid>a940b2a9-cf3e-4503-bf3d-fcfa3d65a213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGM Eksplor Gain Optigrow Pro-gress Maxx dengan IronC'])[1]/following::a[1]</value>
+      <webElementGuid>829a600f-9137-47ea-8365-b02da5ec79cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Selengkapnya'])[10]/following::a[2]</value>
+      <webElementGuid>121b9ef9-adf7-4378-9d89-eb2ec538f8a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGM Family Yummi-Nutri'])[1]/preceding::a[2]</value>
+      <webElementGuid>0166539a-7b96-47ad-899f-588e2ba20282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Selengkapnya'])[12]/preceding::a[2]</value>
+      <webElementGuid>1e6052ae-6aab-44f7-86db-edb99994fc94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/produk/sgm-optigrow')]</value>
+      <webElementGuid>934f01c9-2db1-49d9-9006-421a72806e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[4]/a</value>
+      <webElementGuid>75839ae3-f3fa-4f37-9bf5-3104fe93510c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/produk/sgm-optigrow' and (text() = 'Lihat Selengkapnya' or . = 'Lihat Selengkapnya')]</value>
+      <webElementGuid>3aa8f9f9-38d8-4910-a8b1-b2eef32b4ebc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

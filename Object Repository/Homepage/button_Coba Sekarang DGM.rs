@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Coba Sekarang DGM</name>
+   <tag></tag>
+   <elementGuidId>4aef649f-af54-410f-98a6-87e770abe38c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.d-block.mt-4.mx-auto.mb-1.py-1.px-4.rounded-3.bg-gradient-red-50-100.text-red-500.shadow.w-250px.font-fam-vagroundedbt.mt-sm-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>76295154-7dab-4e8f-a3c3-2471a627e4ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>84ba6df7-81d9-4a95-aa21-fb6d1baf623f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-block mt-4 mx-auto mb-1 py-1 px-4 rounded-3 bg-gradient-red-50-100 text-red-500 shadow w-250px font-fam-vagroundedbt mt-sm-1</value>
+      <webElementGuid>2a46d646-cfd2-4640-ac50-ec63108047b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Coba Sekarang</value>
+      <webElementGuid>14dece04-085f-461b-a200-4ad4b02e303d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>document.location.href='/diary-generasi-maju'</value>
+      <webElementGuid>efd85522-0a4d-4526-a760-81a0a8670396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Coba Sekarang </value>
+      <webElementGuid>f472e61c-d202-495c-a799-caa76adcafbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-container&quot;)/div[@class=&quot;pimcore_area_babyjournal-tools pimcore_area_content&quot;]/section[@class=&quot;bg-white py-6 pt-sm-16&quot;]/div[@class=&quot;container-fluid bg-gradient-red-500-600 bg-sm-white&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-12 py-2 w-sm-90 mx-sm-auto bg-sm-gradient-red-500-600 rounded-sm-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-10 col-sm-4 col-md-7 w-sm-90i mx-sm-auto float-sm-none&quot;]/button[@class=&quot;d-block mt-4 mx-auto mb-1 py-1 px-4 rounded-3 bg-gradient-red-50-100 text-red-500 shadow w-250px font-fam-vagroundedbt mt-sm-1&quot;]</value>
+      <webElementGuid>7bbde0eb-c7aa-4a1f-a11b-f340e134c839</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>ad80332b-afb2-4d73-9b29-da94f834f7eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-container']/div[3]/section/div/div/div/div/div[2]/button</value>
+      <webElementGuid>992a350b-f9f1-41e7-b625-dada20263492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitur yang Mendukung Kemajuan si Kecil'])[1]/following::button[1]</value>
+      <webElementGuid>63e916b8-11da-45b0-89b1-74dc664703d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baca Selengkapnya >'])[15]/following::button[1]</value>
+      <webElementGuid>165bcc35-50ea-4e7f-9168-f5dd5674fa3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bersatu dan Kuat.'])[1]/preceding::button[1]</value>
+      <webElementGuid>4c78d826-2305-4b08-8421-79d62c4c61d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Coba Sekarang']/parent::*</value>
+      <webElementGuid>d34fb9bd-5bcc-42f6-b08b-84cf7f864b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>0698acd0-c2f3-41fc-9d2b-b91318482528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Coba Sekarang' and (text() = '
+Coba Sekarang ' or . = '
+Coba Sekarang ')]</value>
+      <webElementGuid>1ccbd34f-9c7e-44c0-9141-a9027f5d944c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

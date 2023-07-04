@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Lihat Selengkapnya produk 1</name>
+   <tag></tag>
+   <elementGuidId>d5325404-64b5-450e-897d-3a98cf5df8eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-container']/div[5]/div/div[2]/div/div/div/div/div/div/div[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-high-red.btn-lg.btn-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>408762de-e48e-4478-a37a-ec7828ae8214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-high-red btn-lg btn-block</value>
+      <webElementGuid>5dfa068a-fb3a-4947-897d-2295080420f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/produk/sgm-bunda-hamil-menyusui </value>
+      <webElementGuid>a914c4fb-7028-4234-ab23-87269070e551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0a14e544-7394-4edf-a03e-d350c3f0d84f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f9dd8123-713d-4413-99fd-1dd0c90919db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Selengkapnya</value>
+      <webElementGuid>b6d98895-17c1-4a51-8b49-f3ef3936138d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-container&quot;)/div[@class=&quot;pimcore_area_col-slider pimcore_area_content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;slide-for-3-info slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-current slick-active&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;wrap-slide-for-3-info&quot;]/div[@class=&quot;action-art text-center&quot;]/a[@class=&quot;btn btn-high-red btn-lg btn-block&quot;]</value>
+      <webElementGuid>c8dbdffa-ce4d-48c3-9491-973163a7b953</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-container']/div[5]/div/div[2]/div/div/div/div/div/div/div[4]/a</value>
+      <webElementGuid>87b72935-8db4-4fcc-b86d-d27a268442ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Lihat Selengkapnya')])[9]</value>
+      <webElementGuid>892f2880-6e75-4205-a9b3-67bd9d080640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lezatnya SGM Bunda High Iron &amp; DHA'])[1]/following::a[1]</value>
+      <webElementGuid>2ac7a9a6-ac7c-406a-a8d8-a68f6b276670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[2]/following::a[2]</value>
+      <webElementGuid>4760e288-db6a-4ec5-8173-195d3726466a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGM Eksplor 1+ dengan IronC'])[1]/preceding::a[2]</value>
+      <webElementGuid>cce73d3f-7792-43da-823c-989eb99e5a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Selengkapnya'])[10]/preceding::a[2]</value>
+      <webElementGuid>f9c2a4c7-5121-4010-a07e-21adcbd3ce9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/produk/sgm-bunda-hamil-menyusui ')]</value>
+      <webElementGuid>cd7b1966-67ad-42a9-a6c8-8e1fc27b7e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[4]/a</value>
+      <webElementGuid>eead332e-35af-4c93-b00b-dc2a64d0be41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/produk/sgm-bunda-hamil-menyusui ' and (text() = 'Lihat Selengkapnya' or . = 'Lihat Selengkapnya')]</value>
+      <webElementGuid>bfd76b09-39b7-47eb-98ac-bab0f4ed73df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

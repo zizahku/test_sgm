@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_article resep 2</name>
+   <tag></tag>
+   <elementGuidId>2b01c9e7-cf2b-4575-a11d-8a5316e81f22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-ke-1']/div[2]/div[2]/div/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-4.pull-left-15.hidden-xs > div.wrap-sample-artikel > a > div.img-art.thumbnail-small > img.videoline-img-thumbnail.lazy-image</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8cd7cbea-313b-45c7-badb-1d5852724038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dncgty1mvp6vd.cloudfront.net/articles/article/image-thumb__592283__resep-thumbnail/1366x563_Summer%20Creamy%20Smoothies.webp</value>
+      <webElementGuid>dbd030b2-f243-4647-8861-520e6fcdb167</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Summer Creamy Smoothies</value>
+      <webElementGuid>8dfe5100-7bb3-4fb7-a7dc-ab3d057b9f8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Summer Creamy Smoothies</value>
+      <webElementGuid>f044502c-b9c9-4bf5-9659-87ed052ead5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>videoline-img-thumbnail lazy-image</value>
+      <webElementGuid>e7b7992a-0c1f-487f-9328-73dc91d0d93a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>175</value>
+      <webElementGuid>ec643444-1299-4575-9930-1f7d20e94a77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>360</value>
+      <webElementGuid>49a4c4c4-f642-4b70-a77c-914aebd7fddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>a8785331-4257-4276-8f26-a8d62b6d0c27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-ke-1&quot;)/div[@class=&quot;row wrapper-3-produk&quot;]/div[@class=&quot;col-md-4 pull-left-15 hidden-xs&quot;]/div[@class=&quot;wrap-sample-artikel&quot;]/a[1]/div[@class=&quot;img-art thumbnail-small&quot;]/img[@class=&quot;videoline-img-thumbnail lazy-image&quot;]</value>
+      <webElementGuid>66a4683a-8e56-4a6e-90e4-fe6a721d7606</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-ke-1']/div[2]/div[2]/div/a/div/img</value>
+      <webElementGuid>c4fc3cd4-ac53-4dea-be85-d8540b1e772d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Summer Creamy Smoothies']</value>
+      <webElementGuid>a04c1f67-2b16-445a-b658-5b9b3fc652f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div/img</value>
+      <webElementGuid>79000ef1-b218-4419-ba43-393131388bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://dncgty1mvp6vd.cloudfront.net/articles/article/image-thumb__592283__resep-thumbnail/1366x563_Summer%20Creamy%20Smoothies.webp' and @title = 'Summer Creamy Smoothies' and @alt = 'Summer Creamy Smoothies']</value>
+      <webElementGuid>4287e085-e2d4-4a46-9ec8-d26d0fbfcfdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

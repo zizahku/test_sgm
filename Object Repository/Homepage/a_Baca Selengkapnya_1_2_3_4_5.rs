@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Baca Selengkapnya_1_2_3_4_5</name>
+   <tag></tag>
+   <elementGuidId>42db18e1-47ef-4fb8-965a-9d413548ac63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-ke-2']/div/div/div[2]/div/div[3]/div/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>829070a6-b251-4970-9744-07e7ecb0c931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/artikel/trimester-1/nutrisi-makanan/manfaat-minyak-ikan-untuk-ibu-hamil</value>
+      <webElementGuid>6633a8e4-c28f-4e89-b6b5-e12d173e5551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Baca Selengkapnya ></value>
+      <webElementGuid>949b33ab-3ab0-458d-b15f-a8908fefcb39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-ke-2&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 big-box-left-with-list&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;wrap-hot-artikel&quot;]/div[@class=&quot;wrap-list-img-left&quot;]/div[@class=&quot;txt-art&quot;]/div[@class=&quot;r-more&quot;]/a[2]</value>
+      <webElementGuid>178ea75e-bf9b-4fb4-881d-611b86755df5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-ke-2']/div/div/div[2]/div/div[3]/div/div/a[2]</value>
+      <webElementGuid>f1985ee3-2266-4d65-a3e4-938b392f5739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Baca Selengkapnya >')])[10]</value>
+      <webElementGuid>136eb773-3315-4a78-a18f-fa60bb0ccd7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrisi &amp; Makanan'])[3]/following::a[2]</value>
+      <webElementGuid>f3a8e836-7536-4570-91cd-1d8cdf075454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trimester 1'])[4]/following::a[2]</value>
+      <webElementGuid>657446ea-63cf-40fa-9e54-ae438e1a7ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resep Salad Buah Sehat'])[1]/preceding::a[2]</value>
+      <webElementGuid>b525f32a-a296-494e-a6aa-cb3d5ef1acfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trimester 3'])[1]/preceding::a[2]</value>
+      <webElementGuid>3d50283d-d49e-41c8-80c1-1f37614c16f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/artikel/trimester-1/nutrisi-makanan/manfaat-minyak-ikan-untuk-ibu-hamil')])[4]</value>
+      <webElementGuid>28a57974-5059-47be-9163-a47e30dafe22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div[3]/div/div/a[2]</value>
+      <webElementGuid>859c368e-6827-4395-8c39-fa52a01cde82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/artikel/trimester-1/nutrisi-makanan/manfaat-minyak-ikan-untuk-ibu-hamil' and (text() = 'Baca Selengkapnya >' or . = 'Baca Selengkapnya >')]</value>
+      <webElementGuid>a22794dd-77c0-4e1f-bbaf-f75386b7b782</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

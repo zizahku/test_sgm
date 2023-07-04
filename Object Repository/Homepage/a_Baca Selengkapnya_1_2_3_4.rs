@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Baca Selengkapnya_1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>c481165d-7651-4997-a4c6-4f0cd7a3c20c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-ke-2']/div/div/div[2]/div/div[2]/div/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5e7d370b-1c63-4270-bd1a-52728d3593b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/artikel/menyusui/panduan-menyusui/cara-menyusui-bayi-yang-benar</value>
+      <webElementGuid>c841c71a-370b-4aed-9479-a4eea1d9a7b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Baca Selengkapnya ></value>
+      <webElementGuid>2120555d-f17b-439e-b7a8-2ae37cf4f6ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-ke-2&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 big-box-left-with-list&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;wrap-hot-artikel&quot;]/div[@class=&quot;wrap-list-img-left&quot;]/div[@class=&quot;txt-art&quot;]/div[@class=&quot;r-more&quot;]/a[2]</value>
+      <webElementGuid>ccee29a2-9584-426b-bd56-e3b15e358c88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-ke-2']/div/div/div[2]/div/div[2]/div/div/a[2]</value>
+      <webElementGuid>965e5dc3-a0f2-46ec-9d9e-82af694f8994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Baca Selengkapnya >')])[9]</value>
+      <webElementGuid>6b6cb03f-d34a-48bd-9ff4-8626f7383128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panduan Menyusui'])[1]/following::a[2]</value>
+      <webElementGuid>2423eacb-5f05-4149-8fbd-fa49ed012686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menyusui'])[1]/following::a[2]</value>
+      <webElementGuid>85fc1d24-700e-47bf-8c6d-efb0f7200275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manfaat Minyak Ikan untuk Ibu Hamil,...'])[1]/preceding::a[2]</value>
+      <webElementGuid>f8f45c33-5c3a-4667-84bc-f117c36ecf9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trimester 1'])[4]/preceding::a[2]</value>
+      <webElementGuid>f7305137-046d-4fef-b35b-1c0ce6a23191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/artikel/menyusui/panduan-menyusui/cara-menyusui-bayi-yang-benar')])[4]</value>
+      <webElementGuid>8f72d99a-01eb-4b5e-a1a9-5b981b94af97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div[2]/div/div/a[2]</value>
+      <webElementGuid>bea85a69-f55f-448c-8643-b25acaf79013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/artikel/menyusui/panduan-menyusui/cara-menyusui-bayi-yang-benar' and (text() = 'Baca Selengkapnya >' or . = 'Baca Selengkapnya >')]</value>
+      <webElementGuid>cc2e7f7c-e37c-49c2-a409-f04bb7c1deb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
