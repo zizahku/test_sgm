@@ -1,4 +1,23 @@
+<<<<<<< HEAD
 
+=======
+.gradle
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
+>>>>>>> branch 'master' of https://github.com/zizahku/test_sgm.git
 /bin/
 /Libs/
 /.settings/

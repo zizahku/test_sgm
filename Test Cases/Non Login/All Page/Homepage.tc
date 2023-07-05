@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To ensure all button and hyperlink is already active and will redirect user to related content</description>
+   <name>Homepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcfb00cd-d3e0-45f6-9a80-56381176ffb0</testCaseGuid>
+</TestCaseEntity>
