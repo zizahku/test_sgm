@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>icon produk</name>
+   <name>icon produk1</name>
    <tag></tag>
    <elementGuidId>4fd88c2b-b943-4969-843d-6afa5584e7d9</elementGuidId>
    <selectorCollection>
