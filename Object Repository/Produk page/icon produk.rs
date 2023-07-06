@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>4b87a933-f542-43ea-a702-2700a9dd0335</webElementGuid>
+      <webElementGuid>d58dec50-711a-4a36-aaad-930090a189ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>8e5f5318-366d-4443-8867-252b0b01493d</webElementGuid>
+      <webElementGuid>8ce427fa-a2e8-4f7f-943f-066f206b5a2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://dncgty1mvp6vd.cloudfront.net/Product%20Revamp/sgm%20compress/image-thumb__337328__product-landing-list-image-desktop/Group%2013478@3x.webp</value>
-      <webElementGuid>dc6ecfcc-edca-4bad-8770-f3fbc3313f27</webElementGuid>
+      <webElementGuid>f4beaf87-6ff8-44f1-9fd3-f7a9956d8d56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>SGM Eksplor 1+ dengan IronC</value>
-      <webElementGuid>18d6001e-a8aa-40cb-bb87-9d4247e5b4cf</webElementGuid>
+      <webElementGuid>7f7a070b-9266-4902-a159-7b6978a7c140</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>title</name>
       <type>Main</type>
       <value>SGM Eksplor 1+ dengan IronC</value>
-      <webElementGuid>1209edac-2db4-4bcb-a9d2-dc021b4efb66</webElementGuid>
+      <webElementGuid>db2dcc7a-2590-4b74-97e5-c29938c1f70a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;site-container&quot;)/div[@class=&quot;product-revamp&quot;]/div[@class=&quot;pimcore_area_product-landing-list pimcore_area_content&quot;]/section[@class=&quot;product&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product__row&quot;]/div[@class=&quot;product__col&quot;]/a[1]/picture[1]/img[1]</value>
-      <webElementGuid>4eb70492-037d-4530-8b49-b7a45615690c</webElementGuid>
+      <webElementGuid>d46051f9-b390-48e9-8b4f-93e612796cb6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='site-container']/div/div[2]/section/div/div/div/a/picture/img</value>
-      <webElementGuid>887fc800-79de-49de-a975-03253c6a6897</webElementGuid>
+      <webElementGuid>d4ef3312-4847-4816-a51c-7a8748cc3e1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='SGM Eksplor 1+ dengan IronC']</value>
-      <webElementGuid>bb57b52f-35af-4823-8338-de44f9859049</webElementGuid>
+      <webElementGuid>145451b7-8496-4f7b-8e8b-4da9337a0c86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/picture/img</value>
-      <webElementGuid>99f14034-9ff6-4a14-ad09-30b2b712c843</webElementGuid>
+      <webElementGuid>5f22f50f-4635-457d-a4b4-9190e829bf0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://dncgty1mvp6vd.cloudfront.net/Product%20Revamp/sgm%20compress/image-thumb__337328__product-landing-list-image-desktop/Group%2013478@3x.webp' and @alt = 'SGM Eksplor 1+ dengan IronC' and @title = 'SGM Eksplor 1+ dengan IronC']</value>
-      <webElementGuid>7a5c90e0-4a26-41eb-8e66-bc6096bca7d6</webElementGuid>
+      <webElementGuid>b5b7d2f0-46ae-4740-b22f-7458b030e481</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

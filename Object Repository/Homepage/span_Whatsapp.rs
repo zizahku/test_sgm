@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Whatsapp</name>
+   <tag></tag>
+   <elementGuidId>8f7d9bda-57ec-43b7-a225-04ed791c5e13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.field.two.show.opacity > a > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='SAYA SETUJU'])[2]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bef885f4-78ef-45a1-b185-e2659c95206d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Whatsapp</value>
+      <webElementGuid>02b76bb6-b183-4b97-80a2-ad83b4a0d389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[1]/section[@class=&quot;chat-careline&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;field two show opacity&quot;]/a[1]/span[1]</value>
+      <webElementGuid>bb2d72b8-bd7f-4a51-b129-f49e5d274c7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAYA SETUJU'])[2]/following::span[1]</value>
+      <webElementGuid>762db756-0918-4723-b546-15edf0024102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAYA SETUJU'])[1]/following::span[1]</value>
+      <webElementGuid>e5bb138a-f482-477e-b365-0f4c7453c7bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Toll Free)'])[1]/preceding::span[1]</value>
+      <webElementGuid>3574e729-9bf4-4de3-93cb-8790b47b4a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Whatsapp']/parent::*</value>
+      <webElementGuid>57b4b218-6d04-4367-b400-8187ed5e2176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>4d36d546-4d34-4cab-b156-1dfc65ec69e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Whatsapp' or . = 'Whatsapp')]</value>
+      <webElementGuid>0a0ec4d4-1af2-4b89-ab95-d3ed4e454750</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

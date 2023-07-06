@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>66c3be22-79aa-4fac-aa12-e2af039c935e</webElementGuid>
+      <webElementGuid>47fcc37a-626d-459f-9ac8-f6da7a3bffb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-times color-red</value>
-      <webElementGuid>25ea05de-cb2b-4881-be09-ab414f61a67a</webElementGuid>
+      <webElementGuid>1c9f5d2f-5801-412c-b850-dfd07c77b1b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>41e61a30-ed7d-4b4d-864d-f10007aca6f2</webElementGuid>
+      <webElementGuid>7ee43832-9df4-4d70-8071-b42abcaf42da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;product-floating&quot;)/div[@class=&quot;all&quot;]/div[@class=&quot;close close-floating-iconic&quot;]/i[@class=&quot;fa fa-times color-red&quot;]</value>
-      <webElementGuid>81e38f05-30cf-42bb-b0de-96095b819a6a</webElementGuid>
+      <webElementGuid>a9474d68-1466-4678-8fb2-cc303ee99029</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='product-floating']/div/div/i</value>
-      <webElementGuid>d5080405-542e-47d1-a1d5-119e3e20c252</webElementGuid>
+      <webElementGuid>63d95b6c-158b-4617-967f-127b9f175424</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/i</value>
-      <webElementGuid>2804fc29-c85a-4059-9904-c2461a8229f3</webElementGuid>
+      <webElementGuid>31ed5dc2-0d06-49da-87c9-1f8423a40304</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

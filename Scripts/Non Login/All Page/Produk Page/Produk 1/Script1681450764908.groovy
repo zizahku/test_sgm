@@ -17,3 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.generasimaju.co.id/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Object Repository/Produk page/a_Produk'))
+
+WebUI.click(findTestObject('Object Repository/Produk page/button X floating banner'))
+
+WebUI.click(findTestObject('Object Repository/Produk page/icon produk'))
+
+CurrentUrl = WebUI.getUrl()
+
+WebUI.verifyElementPresent(findTestObject('Homepage/iframe___ nanti ambil'), 20)
+
+WebUI.click(findTestObject('Homepage/input_concat(id(, , __st_bpn_no, , ))_notnow (1)'))
+
+WebUI.delay(5)
+
+WebUI.closeBrowser()
+
