@@ -45,7 +45,7 @@ WebUI.click(findTestObject('Object Repository/Produk page/button X floating bann
 
 WebUI.click(findTestObject('Produk page/a_MEKANISME KLUB GENERASI MAJU'))
 
-WebUI.delay(2)
+WebUI.delay(1)
 
 WebUI.click(findTestObject('Produk page/a_KEUNTUNGAN KLUB GENERASI MAJU'))
 
@@ -58,3 +58,4 @@ WebUI.delay(2)
 WebUI.navigateToUrl('https://www.generasimaju.co.id/produk')
 
 WebUI.closeBrowser()
+
