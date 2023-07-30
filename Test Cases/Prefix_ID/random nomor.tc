@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Coba random nomor dari selenium</description>
+   <name>random nomor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73180b57-a643-4d6c-ab10-767568d53353</testCaseGuid>
+</TestCaseEntity>

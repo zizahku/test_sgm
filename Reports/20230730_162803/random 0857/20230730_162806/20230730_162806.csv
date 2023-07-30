@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+random 0857,Chrome 115.0.0.0,,,2023-07-30 16:28:34,2023-07-30 16:28:50,15.796s,PASSED
+,,,,,,,
+Test Cases/Prefix_ID/random nomor,Chrome 115.0.0.0,Coba random nomor dari selenium,,2023-07-30 16:28:34,2023-07-30 16:28:50,15.548s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-07-30 16:28:35,2023-07-30 16:28:37,2.447s,PASSED
+"navigateToUrl(""https://generasi.eydendigital.co.id/"")",Chrome 115.0.0.0,,,2023-07-30 16:28:37,2023-07-30 16:28:39,2.376s,PASSED
+"click(findTestObject(""homepage/button_Daftar""))",Chrome 115.0.0.0,,,2023-07-30 16:28:39,2023-07-30 16:28:46,6.687s,PASSED
+"setText(findTestObject(""Register/input_Nama Lengkap_firstname""), ""azia"")",Chrome 115.0.0.0,,,2023-07-30 16:28:46,2023-07-30 16:28:48,2.009s,PASSED
+randomNum = generateRandomNumber(),Chrome 115.0.0.0,,,2023-07-30 16:28:48,2023-07-30 16:28:48,0.001s,PASSED
+random = new java.util.Random(),Chrome 115.0.0.0,,,2023-07-30 16:28:48,2023-07-30 16:28:48,0.014s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",Chrome 115.0.0.0,,,2023-07-30 16:28:48,2023-07-30 16:28:48,0.006s,PASSED
+"randomNumber = ""0877"" + lastNineDigits",Chrome 115.0.0.0,,,2023-07-30 16:28:48,2023-07-30 16:28:48,0.001s,PASSED
+return randomNumber,Chrome 115.0.0.0,,,2023-07-30 16:28:48,2023-07-30 16:28:48,0.002s,PASSED
+"setText(findTestObject(""Register/input_Nomor Ponsel_msisdn""), randomNum)",Chrome 115.0.0.0,,,2023-07-30 16:28:48,2023-07-30 16:28:49,0.993s,PASSED
+"setEncryptedText(findTestObject(""Register/input_Password_password""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 115.0.0.0,,,2023-07-30 16:28:49,2023-07-30 16:28:50,0.664s,PASSED
