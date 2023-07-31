@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 .gradle
@@ -18,6 +19,9 @@ build
 
 .project
 >>>>>>> branch 'master' of https://github.com/zizahku/test_sgm.git
+=======
+
+>>>>>>> branch 'zizah' of https://github.com/zizahku/test_sgm.git
 /bin/
 /Libs/
 /.settings/

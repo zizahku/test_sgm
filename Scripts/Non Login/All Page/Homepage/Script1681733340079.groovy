@@ -27,13 +27,13 @@ WebUI.navigateToUrl('https://www.generasimaju.co.id/')
 
 WebUI.click(findTestObject('Object Repository/Homepage/button_SAYA SETUJU'))
 
-WebUI.setText(findTestObject('Homepage/input search'), "susu anak")
+WebUI.setText(findTestObject('Homepage/input search'), 'susu anak')
 
 WebUI.click(findTestObject('Homepage/button search'))
 
 WebUI.back()
 
-WebUI.click(findTestObject('Homepage/Submit Kode Unik'))
+WebUI.click(findTestObject('Homepage/span_Submit Kode Unik'))
 
 WebUI.delay(1)
 
@@ -103,7 +103,7 @@ WebUI.click(findTestObject('Homepage/a_Baca Selengkapnya_1_2_3_4_5_6_7'))
 
 WebUI.switchToWindowUrl('https://www.generasimaju.co.id/')
 
-WebUI.click(findTestObject('Homepage/button_Coba Sekarang DGM'))
+WebUI.click(findTestObject('Homepage/button_Coba Sekarang'))
 
 WebUI.delay(5)
 
