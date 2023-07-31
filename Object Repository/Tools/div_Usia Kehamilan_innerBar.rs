@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Usia Kehamilan_innerBar</name>
+   <tag></tag>
+   <elementGuidId>a9ed126e-69b2-4986-9603-08cc27ab2bcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='trim1-ot-2']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#trim1-ot-2 > div.innerBar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>07fd14ed-a95e-4c05-9bf0-be55d685a5ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>innerBar</value>
+      <webElementGuid>ec58b13c-454c-422f-8118-7d6625a892eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;trim1-ot-2&quot;)/div[@class=&quot;innerBar&quot;]</value>
+      <webElementGuid>1b39de32-f8bb-4945-a97e-d682c3a95acc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='trim1-ot-2']/div</value>
+      <webElementGuid>01c2ebd0-5d29-40b1-b1c8-42ecae081704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div</value>
+      <webElementGuid>63faa19d-eed7-4ba8-95cc-2fc9a134c7e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

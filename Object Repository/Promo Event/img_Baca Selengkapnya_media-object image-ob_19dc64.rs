@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Baca Selengkapnya_media-object image-ob_19dc64</name>
+   <tag></tag>
+   <elementGuidId>25d48a97-4b2f-4224-90be-80fda68bf32a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='promo']/div/div[2]/div/div/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.media-object.image-object.image-object-landscape.isdesktop</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d10a0ee1-91e4-43dd-9cf3-b08523dd2f18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__593950__event-promo-article-medium/Push%20to%20FS_10K_Promo%20Banner.webp</value>
+      <webElementGuid>e3fb751f-89a1-49f1-92d1-9ea4a47cdfbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Program “Submit Kode Unik Pertama SGM Eksplor”</value>
+      <webElementGuid>449b216c-a931-48aa-afd8-02e9bbc80e52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Program “Submit Kode Unik Pertama SGM Eksplor”</value>
+      <webElementGuid>05c59a08-656d-4718-9c49-3269ed0dd614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>media-object image-object image-object-landscape isdesktop</value>
+      <webElementGuid>38f0e148-aba6-48fd-9b2f-29424735f9cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>140</value>
+      <webElementGuid>fdc7dba9-97ee-4a5b-b161-7bbddbd3cda8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>46e84092-fd54-4893-8a64-4fe0d2edeaa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;promo&quot;)/div[@class=&quot;col-lg-8 article-master&quot;]/div[@class=&quot;col-md-12 box-list z-2&quot;]/div[@class=&quot;box box-solid box-newline-20&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-left&quot;]/a[@class=&quot;ad-click-event&quot;]/img[@class=&quot;media-object image-object image-object-landscape isdesktop&quot;]</value>
+      <webElementGuid>53dbab59-a02d-4623-8778-330c694f004d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='promo']/div/div[2]/div/div/div/div/a/img</value>
+      <webElementGuid>25cb57c7-429f-4fdc-9272-2eaea6db9d1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Program “Submit Kode Unik Pertama SGM Eksplor”']</value>
+      <webElementGuid>25ad45ea-40f8-43f0-93e0-4aeec4517a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/a/img</value>
+      <webElementGuid>8156842c-793a-4061-aebc-aed93559225f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__593950__event-promo-article-medium/Push%20to%20FS_10K_Promo%20Banner.webp' and @title = 'Program “Submit Kode Unik Pertama SGM Eksplor”' and @alt = 'Program “Submit Kode Unik Pertama SGM Eksplor”']</value>
+      <webElementGuid>3c128852-786f-44c8-a2fe-9bbfca3583cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

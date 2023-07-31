@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kalkulator Kehamilan</name>
+   <tag></tag>
+   <elementGuidId>35a91939-5207-4ed0-ac3f-e7e8ddc1b091</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='dropdownAgm']/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7765bfbd-0968-440b-a38c-16a4bf83e82b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>347fa8a8-1666-4b0e-ae1d-daa71e682f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.generasimaju.co.id/tools/kalkulator-kehamilan</value>
+      <webElementGuid>cecde3b0-5a38-4e51-8833-246513af4885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kalkulator Kehamilan</value>
+      <webElementGuid>99bf5537-5f8c-4cba-a62e-bd0379ea6bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[1]/nav[@class=&quot;navbar navbar-default navbar-fixed-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;wrap wrap-menu&quot;]/div[@class=&quot;lower-menu&quot;]/div[@class=&quot;desktop-nav hidden-sm hidden-xs&quot;]/ul[@class=&quot;nav navbar-nav nav-justified&quot;]/li[@id=&quot;dropdownAgm&quot;]/div[@class=&quot;dropdown-menu&quot;]/ul[@class=&quot;menu-vertical&quot;]/li[1]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>878a1230-33f8-4474-b4d7-61e87ddef976</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='dropdownAgm']/div/ul/li/a</value>
+      <webElementGuid>21d4dfef-5280-418d-a6f8-01b0e3a8c7d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kalkulator Kehamilan')]</value>
+      <webElementGuid>a3bd993a-a2f6-456d-9710-a456418fbcb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diary Generasi Maju'])[1]/preceding::a[1]</value>
+      <webElementGuid>4add7a12-2626-45bd-b59f-727c8db31bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek Risiko Tidak Cocok Susu Sapi'])[1]/preceding::a[2]</value>
+      <webElementGuid>5f53290d-30e2-4977-8976-0663b0d21ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kalkulator Kehamilan']/parent::*</value>
+      <webElementGuid>ab75c183-f483-4d15-8dd4-6683d3fbf920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.generasimaju.co.id/tools/kalkulator-kehamilan')]</value>
+      <webElementGuid>51484a62-2cc3-4339-b175-948dfc559b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/ul/li/a</value>
+      <webElementGuid>b2d7248c-3fba-40e0-a1e8-03cc8a6d6596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.generasimaju.co.id/tools/kalkulator-kehamilan' and (text() = 'Kalkulator Kehamilan' or . = 'Kalkulator Kehamilan')]</value>
+      <webElementGuid>19086f5a-6baf-4564-9422-be2d6a9243f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

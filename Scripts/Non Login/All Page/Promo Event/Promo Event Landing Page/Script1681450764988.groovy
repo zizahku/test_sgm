@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.generasimaju.co.id/')
+
+WebUI.click(findTestObject('Object Repository/Promo Event/button_SAYA SETUJU'))
+
+WebUI.click(findTestObject('Object Repository/Promo Event/a_Promo  Event'))
+
+WebUI.click(findTestObject('Object Repository/Promo Event/a_Baca Selengkapnya'))
+
+WebUI.click(findTestObject('Object Repository/Promo Event/img_Baca Selengkapnya_media-object image-ob_19dc64'))
+
+WebUI.click(findTestObject('Object Repository/Promo Event/img_Promo Terpopuler_media-object image-object'))
+
+WebUI.closeBrowser()
+

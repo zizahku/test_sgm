@@ -27,6 +27,12 @@ WebUI.navigateToUrl('https://www.generasimaju.co.id/')
 
 WebUI.click(findTestObject('Object Repository/Homepage/button_SAYA SETUJU'))
 
+WebUI.setText(findTestObject('Homepage/input search'), "susu anak")
+
+WebUI.click(findTestObject('Homepage/button search'))
+
+WebUI.back()
+
 WebUI.click(findTestObject('Homepage/Submit Kode Unik'))
 
 WebUI.delay(1)

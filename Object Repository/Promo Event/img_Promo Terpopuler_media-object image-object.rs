@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Promo Terpopuler_media-object image-object</name>
+   <tag></tag>
+   <elementGuidId>cbbadece-669c-4094-9acc-a7224a9d93b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='promo']/div[2]/div/div/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.box.box-solid.box-newline-15 > div.box-body > div.media > div.media-left > a.ad-click-event > img.media-object.image-object</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4b11dbf7-44b7-4cc7-89a9-cac22af8d737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__594606__event-promo-article-small/Thumbnail%20%5BLowres%5D_1.webp</value>
+      <webElementGuid>9a43392f-d747-4429-a2ce-db0aa395ee3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>PROGRAM “Submit Pertama Kali SGM Family Yummy-Nutri Dapat Gopay hingga Rp. 20.000,-”</value>
+      <webElementGuid>2027ad04-f73b-4c50-810d-a5cd4183a7be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>PROGRAM “Submit Pertama Kali SGM Family Yummy-Nutri Dapat Gopay hingga Rp. 20.000,-”</value>
+      <webElementGuid>29a0342e-85ab-4664-889c-03fc4a511ed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>media-object image-object</value>
+      <webElementGuid>962d5793-188a-488f-8ae8-591177cef2b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>116</value>
+      <webElementGuid>9b732f2c-547c-4511-a15a-4b2b39b75e3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>116</value>
+      <webElementGuid>0f9f05c8-0f8f-4879-b69e-7ba0040f325d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;promo&quot;)/div[@class=&quot;col-lg-4 popular-article-master popular-event-promo z-2&quot;]/div[@class=&quot;box box-solid box-newline-15&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-left&quot;]/a[@class=&quot;ad-click-event&quot;]/img[@class=&quot;media-object image-object&quot;]</value>
+      <webElementGuid>a1332da1-a97c-49ba-9b17-c7a66e7133fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='promo']/div[2]/div/div/div/div/a/img</value>
+      <webElementGuid>575fad78-c116-4997-829a-d0dcb7232d13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='PROGRAM “Submit Pertama Kali SGM Family Yummy-Nutri Dapat Gopay hingga Rp. 20.000,-”']</value>
+      <webElementGuid>ba531b04-4cc8-46f2-bc73-d32cb86cbcc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a/img</value>
+      <webElementGuid>2793996f-5d3b-4605-9883-0dcf82bb23ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__594606__event-promo-article-small/Thumbnail%20%5BLowres%5D_1.webp' and @title = 'PROGRAM “Submit Pertama Kali SGM Family Yummy-Nutri Dapat Gopay hingga Rp. 20.000,-”' and @alt = 'PROGRAM “Submit Pertama Kali SGM Family Yummy-Nutri Dapat Gopay hingga Rp. 20.000,-”']</value>
+      <webElementGuid>36d45abb-7b80-415d-83ef-ee8f58407236</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

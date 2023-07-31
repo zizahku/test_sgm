@@ -17,3 +17,40 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.generasimaju.co.id/')
+
+WebUI.click(findTestObject('Object Repository/Tools/button_SAYA SETUJU'))
+
+WebUI.mouseOver(findTestObject('Tools/Tools tab'), 'a_Kalkulator Kehamilan')
+
+//WebUI.click(findTestObject('Object Repository/Tools/a_Kalkulator Kehamilan'))
+//
+//WebUI.switchToWindowTitle('Kalkulator Kehamilan & Kalender Kehamilan 2023')
+//
+//WebUI.click(findTestObject('Object Repository/Tools/div_Masukan Tanggal HPHT'))
+//
+//WebUI.click(findTestObject('Object Repository/Tools/a_Pilih Tanggal'))
+//
+//WebUI.click(findTestObject('Object Repository/Tools/a_15'))
+//
+//WebUI.click(findTestObject('Object Repository/Tools/a_Pilih Bulan'))
+//
+//WebUI.click(findTestObject('Object Repository/Tools/a_September'))
+//
+//WebUI.click(findTestObject('Object Repository/Tools/a_Pilih Tahun'))
+//
+//WebUI.click(findTestObject('Object Repository/Tools/a_2020'))
+//
+//WebUI.click(findTestObject('Object Repository/Tools/button_SIMPAN'))
+//
+//WebUI.click(findTestObject('Object Repository/Tools/button_MULAI DISINI'))
+//
+//WebUI.click(findTestObject('Object Repository/Tools/div_Usia Kehamilan_innerBar'))
+//
+//WebUI.click(findTestObject('Object Repository/Tools/button_Kehamilan Bulan ke 8'))
+//
+//WebUI.click(findTestObject('Object Repository/Tools/button_Kehamilan Bulan ke 9'))
+WebUI.closeBrowser()
+
