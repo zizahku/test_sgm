@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>kondisi bunda</name>
+   <name>Kondisi Bunda</name>
    <tag></tag>
-   <elementGuidId>5668bd8c-898d-4648-95d8-741affd670fc</elementGuidId>
+   <elementGuidId>c040c612-70c5-4985-be39-73a49d7e0ed0</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value></value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id=&quot;kondisi-bunda&quot;])</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
