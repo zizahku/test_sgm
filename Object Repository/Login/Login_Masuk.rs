@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Login_Masuk</name>
+   <tag></tag>
+   <elementGuidId>0e20d5c4-23a0-4bbf-9a7f-c8586757db0b</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit Kode Unik'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f9fb0457-4517-4c13-bf42-d4a4f1079584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>80717fad-1199-4352-ad0f-52ed37dd06c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[1]/nav[@class=&quot;navbar navbar-default navbar-fixed-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;wrap wrap-menu&quot;]/div[@class=&quot;upper-menu hidden-xs&quot;]/div[@class=&quot;menus akun&quot;]/div[@class=&quot;dropdown&quot;]/a[@class=&quot;non-btn font-bold text-red font-capitalize&quot;]/span[1]</value>
+      <webElementGuid>896a5a13-1e50-480e-940f-6b642e5b8e18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit Kode Unik'])[1]/following::span[1]</value>
+      <webElementGuid>474d7dea-efe9-4816-9aa4-8c1781a292c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resep'])[1]/following::span[3]</value>
+      <webElementGuid>6e6b9ab7-a69f-4bea-8a87-21d0ff88e138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::span[1]</value>
+      <webElementGuid>e76bcec7-4b9a-4c76-ad17-507c885fe2b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/preceding::span[2]</value>
+      <webElementGuid>f8a16cbd-86de-411f-8590-e795bba95cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
+      <webElementGuid>09cd5703-4ae8-4d29-8e72-e247e1e49ddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>e0fcdec9-82fa-482e-83fc-95ae3b48f431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>30095505-fc02-4832-bd90-eb22c86bdb91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
