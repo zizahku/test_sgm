@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>close X popup produk landing</name>
+   <tag></tag>
+   <elementGuidId>12ab49d3-69eb-45e6-b383-2d0bacee8a8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-floating']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.close.close-floating-iconic</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b539f8c6-0462-41c5-89a9-6ea7b8bac137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>close close-floating-iconic</value>
+      <webElementGuid>4e79e444-7432-4aac-9996-947eb96ce747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-floating&quot;)/div[@class=&quot;all&quot;]/div[@class=&quot;close close-floating-iconic&quot;]</value>
+      <webElementGuid>99e0ef90-3ce9-4d43-a09a-a57056efff07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-floating']/div/div</value>
+      <webElementGuid>4690983c-ee97-4dba-8e4a-814df258af29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGM Soya'])[1]/following::div[10]</value>
+      <webElementGuid>d45011eb-79b6-4426-8fb7-26d14241f9f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGM Bunda Menyusui'])[1]/following::div[10]</value>
+      <webElementGuid>19142dbe-9084-4a1d-9187-87ff62d063ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGM Eksplor, Susu Pertumbuhan untuk Anak Berusia 1-12 Tahun'])[1]/preceding::div[3]</value>
+      <webElementGuid>d5589446-7ced-45a2-9bdd-a57f853ee357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TM'])[1]/preceding::div[7]</value>
+      <webElementGuid>14381105-0d4d-4b79-98c0-c2784c679f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div</value>
+      <webElementGuid>474da6c3-79a0-48bd-b894-e8f38389068c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

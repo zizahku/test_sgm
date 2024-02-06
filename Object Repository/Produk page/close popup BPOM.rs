@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>close popup BPOM</name>
+   <tag></tag>
+   <elementGuidId>f013b88c-4769-4268-a2b5-f0710bc8d874</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-popup']/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.close.close-popup-iconic > i.fa.fa-times.color-red</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9910bb67-3d28-4ae6-87c2-0ba5d86884b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times color-red</value>
+      <webElementGuid>006427ae-7eb9-4924-8f70-56f69d9e5064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>01d1d422-675e-475d-a585-2ffaaf28f250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-popup&quot;)/div[@class=&quot;all&quot;]/div[@class=&quot;close close-popup-iconic&quot;]/i[@class=&quot;fa fa-times color-red&quot;]</value>
+      <webElementGuid>4ca3e296-612e-411b-980f-9071143ab3f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-popup']/div/div/i</value>
+      <webElementGuid>69376411-f321-43ed-8bc6-bff944587473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/i</value>
+      <webElementGuid>fb1d9f83-c952-4fd5-9e6f-6e005456e5e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_3plus</name>
+   <tag></tag>
+   <elementGuidId>65dece78-b1d3-4032-b83b-978b3a7b776c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-container']/div/div[2]/section/div/div/div[2]/a/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;SGM Eksplor 3+ dengan IronC&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>25baef62-9d92-45c7-b506-7aa6be4ab54e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>4c590ee8-1c58-46f4-ae81-e0d520800d5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__596003__product-landing-list-image-desktop/Tumbnail%20Website%20Product%203+.webp</value>
+      <webElementGuid>868b3a32-16f4-401c-9438-5d683cf9d074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>SGM Eksplor 3+ dengan IronC</value>
+      <webElementGuid>4d3d7065-2515-4173-b621-dd851b05c9ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SGM Eksplor 3+ dengan IronC</value>
+      <webElementGuid>3da38d3e-2b77-4224-a4be-9e7ac45e4eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-container&quot;)/div[@class=&quot;product-revamp&quot;]/div[@class=&quot;pimcore_area_product-landing-list pimcore_area_content&quot;]/section[@class=&quot;product&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product__row&quot;]/div[@class=&quot;product__col&quot;]/a[1]/picture[1]/img[1]</value>
+      <webElementGuid>0a7c41e9-253c-417d-a821-a63e98beba44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-container']/div/div[2]/section/div/div/div[2]/a/picture/img</value>
+      <webElementGuid>fc71b54f-99a6-4ef5-ad7b-3def18590c9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='SGM Eksplor 3+ dengan IronC']</value>
+      <webElementGuid>478e3c2a-28b1-41e0-a9fa-6a8c8283e38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/picture/img</value>
+      <webElementGuid>da699da2-de3e-4866-969f-12827ee1eb71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__596003__product-landing-list-image-desktop/Tumbnail%20Website%20Product%203+.webp' and @alt = 'SGM Eksplor 3+ dengan IronC' and @title = 'SGM Eksplor 3+ dengan IronC']</value>
+      <webElementGuid>50d58ead-95a4-42f8-850f-8f6cd776e4fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

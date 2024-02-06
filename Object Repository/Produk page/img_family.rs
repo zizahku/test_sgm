@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_family</name>
+   <tag></tag>
+   <elementGuidId>16c547b5-5533-416f-b35e-2b5754671362</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-container']/div/div[2]/section/div/div/div[4]/a/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;SGM Family Yummi-Nutri&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>72ff7590-16a2-4707-919d-4c105bb579e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>a89f3b17-9760-4885-886e-1e2445ac8c76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__595997__product-landing-list-image-desktop/Tumbnail%20Website%20Product%20Family-1.webp</value>
+      <webElementGuid>8717b3e2-f7e5-40d2-a377-87e88c65abf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>SGM Family Yummi-Nutri</value>
+      <webElementGuid>b48e5d75-536c-44a5-831f-b08745c596c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SGM Family Yummi-Nutri</value>
+      <webElementGuid>2d30c16c-9794-40f0-b5ca-f42119e07efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-container&quot;)/div[@class=&quot;product-revamp&quot;]/div[@class=&quot;pimcore_area_product-landing-list pimcore_area_content&quot;]/section[@class=&quot;product&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product__row&quot;]/div[@class=&quot;product__col&quot;]/a[1]/picture[1]/img[1]</value>
+      <webElementGuid>12c8e9f7-5c77-4373-838c-c3afe01d768c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-container']/div/div[2]/section/div/div/div[4]/a/picture/img</value>
+      <webElementGuid>eb4c4541-67f1-4233-b317-638410547864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='SGM Family Yummi-Nutri']</value>
+      <webElementGuid>9b4c1a73-4571-4234-bab4-9c22ca4550e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/picture/img</value>
+      <webElementGuid>3d16ce3a-951f-477d-b288-a5bc55175be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__595997__product-landing-list-image-desktop/Tumbnail%20Website%20Product%20Family-1.webp' and @alt = 'SGM Family Yummi-Nutri' and @title = 'SGM Family Yummi-Nutri']</value>
+      <webElementGuid>536e02ae-aa33-4086-9aa8-9d1939fd91d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

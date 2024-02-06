@@ -17,3 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://www.generasimaju.co.id/')
+
+
+WebUI.click(findTestObject('Produk page/input_concat(id(, , __st_bpn_no, , ))_notnow'))
+
+WebUI.click(findTestObject('Object Repository/Homepage/button_SAYA SETUJU'))
+
+WebUI.click(findTestObject('Promo Event/header_Promo Event'))
+
+WebUI.click(findTestObject('Promo Event/pills Promo'))
+
+WebUI.click(findTestObject('Promo Event/card Baca Selengkapnya'))
+
+WebUI.back()
+
+WebUI.delay(1)
+
+WebUI.executeJavaScript('window.scrollTo(0, -document.body.scrollHeight);', null)
+
+WebUI.click(findTestObject('Promo Event/breadcrumb Beranda'))
+
+WebUI.back()

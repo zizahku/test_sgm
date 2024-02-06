@@ -4,17 +4,26 @@
    <name>img_Baca Selengkapnya_media-object image-ob_19dc64</name>
    <tag></tag>
    <elementGuidId>25d48a97-4b2f-4224-90be-80fda68bf32a</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='promo']/div/div[2]/div/div/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = 'https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__593950__event-promo-article-medium/Push%20to%20FS_10K_Promo%20Banner.webp' and @title = 'Program “Submit Kode Unik Pertama SGM Eksplor”' and @alt = 'Program “Submit Kode Unik Pertama SGM Eksplor”']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>img.media-object.image-object.image-object-landscape.isdesktop</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +31,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>d10a0ee1-91e4-43dd-9cf3-b08523dd2f18</webElementGuid>
+      <webElementGuid>0e8dc706-572f-4263-815e-7f5556199110</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +39,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__593950__event-promo-article-medium/Push%20to%20FS_10K_Promo%20Banner.webp</value>
-      <webElementGuid>e3fb751f-89a1-49f1-92d1-9ea4a47cdfbc</webElementGuid>
+      <webElementGuid>d89a3e23-7a7c-4a7c-ab08-50026815e1b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +47,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Program “Submit Kode Unik Pertama SGM Eksplor”</value>
-      <webElementGuid>449b216c-a931-48aa-afd8-02e9bbc80e52</webElementGuid>
+      <webElementGuid>c13dc93a-45d0-4f64-87a6-1fdeedd83c23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +55,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Program “Submit Kode Unik Pertama SGM Eksplor”</value>
-      <webElementGuid>05c59a08-656d-4718-9c49-3269ed0dd614</webElementGuid>
+      <webElementGuid>5da4b480-b36e-4afd-a0ed-a191bc548467</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>media-object image-object image-object-landscape isdesktop</value>
-      <webElementGuid>38f0e148-aba6-48fd-9b2f-29424735f9cf</webElementGuid>
+      <webElementGuid>8643e2c2-5241-40e5-b686-b69aa1e90252</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +71,7 @@
       <name>height</name>
       <type>Main</type>
       <value>140</value>
-      <webElementGuid>fdc7dba9-97ee-4a5b-b161-7bbddbd3cda8</webElementGuid>
+      <webElementGuid>a02a5af6-0426-4e8d-8b99-4eb44b6f4684</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +79,7 @@
       <name>width</name>
       <type>Main</type>
       <value>200</value>
-      <webElementGuid>46e84092-fd54-4893-8a64-4fe0d2edeaa5</webElementGuid>
+      <webElementGuid>58751301-5166-4c0d-a43a-2948e2e602fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;promo&quot;)/div[@class=&quot;col-lg-8 article-master&quot;]/div[@class=&quot;col-md-12 box-list z-2&quot;]/div[@class=&quot;box box-solid box-newline-20&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-left&quot;]/a[@class=&quot;ad-click-event&quot;]/img[@class=&quot;media-object image-object image-object-landscape isdesktop&quot;]</value>
-      <webElementGuid>53dbab59-a02d-4623-8778-330c694f004d</webElementGuid>
+      <webElementGuid>c6e3bd93-10b2-48a3-9035-d0ba73a38c09</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='promo']/div/div[2]/div/div/div/div/a/img</value>
-      <webElementGuid>25cb57c7-429f-4fdc-9272-2eaea6db9d1a</webElementGuid>
+      <webElementGuid>416aa821-0f32-495c-a031-964f10ea9887</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +103,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Program “Submit Kode Unik Pertama SGM Eksplor”']</value>
-      <webElementGuid>25ad45ea-40f8-43f0-93e0-4aeec4517a6a</webElementGuid>
+      <webElementGuid>0a9953fa-338b-4649-a57b-790f19855ce0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/div/div/div/a/img</value>
-      <webElementGuid>8156842c-793a-4061-aebc-aed93559225f</webElementGuid>
+      <webElementGuid>ecc4ab21-b6cf-4042-b052-88260230fefa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__593950__event-promo-article-medium/Push%20to%20FS_10K_Promo%20Banner.webp' and @title = 'Program “Submit Kode Unik Pertama SGM Eksplor”' and @alt = 'Program “Submit Kode Unik Pertama SGM Eksplor”']</value>
-      <webElementGuid>3c128852-786f-44c8-a2fe-9bbfca3583cb</webElementGuid>
+      <webElementGuid>5ea227d7-052d-40b0-97ac-8a84e7721858</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

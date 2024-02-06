@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_bunda</name>
+   <tag></tag>
+   <elementGuidId>eceadd95-6896-4d3e-a64f-569710f3084b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-container']/div/div[2]/section/div/div/div[5]/a/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Lezatnya SGM Bunda High Iron &amp; DHA&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5d2bb852-ac08-424a-a092-7fba594d6962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>d2b1fb0c-ef95-4a48-b23d-0ecef12389b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__595999__product-landing-list-image-desktop/Tumbnail%20Website%20Product%20Bunda.webp</value>
+      <webElementGuid>24bdd3be-de9b-46c0-9d5d-f3c0ad075fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Lezatnya SGM Bunda High Iron &amp; DHA</value>
+      <webElementGuid>5e24421f-f2c8-4950-acfd-7a93f040d412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Lezatnya SGM Bunda High Iron &amp; DHA</value>
+      <webElementGuid>171d0169-9b94-46f8-8279-bcdec6244c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-container&quot;)/div[@class=&quot;product-revamp&quot;]/div[@class=&quot;pimcore_area_product-landing-list pimcore_area_content&quot;]/section[@class=&quot;product&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product__row&quot;]/div[@class=&quot;product__col&quot;]/a[1]/picture[1]/img[1]</value>
+      <webElementGuid>467c32ff-33aa-4234-9061-a0865d171699</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-container']/div/div[2]/section/div/div/div[5]/a/picture/img</value>
+      <webElementGuid>04714f53-61ae-457e-a7f9-64bfe3744360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Lezatnya SGM Bunda High Iron &amp; DHA']</value>
+      <webElementGuid>6b48688c-4050-404f-9710-629dd061d176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/picture/img</value>
+      <webElementGuid>e5ea4c2f-e089-40cd-8083-4236b1ecdd6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__595999__product-landing-list-image-desktop/Tumbnail%20Website%20Product%20Bunda.webp' and @alt = 'Lezatnya SGM Bunda High Iron &amp; DHA' and @title = 'Lezatnya SGM Bunda High Iron &amp; DHA']</value>
+      <webElementGuid>c1492178-0651-4031-ab44-033145e43d41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

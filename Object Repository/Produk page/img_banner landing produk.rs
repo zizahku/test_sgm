@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_banner landing produk</name>
+   <tag></tag>
+   <elementGuidId>96b67d22-fb11-4b54-9175-a629a4975e27</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-floating']/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;floating banner&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>155d87cb-8e2c-46f1-9bc2-1afc222d1be6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_default_upload_bucket/FA_FSMP-POSM_Resize-Banner-Desktop.jpg</value>
+      <webElementGuid>66daa710-2b3f-4f18-b87c-b48bae513298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>floating banner</value>
+      <webElementGuid>a800a40a-3e69-4bda-9e3a-3528426d2ec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>floating banner</value>
+      <webElementGuid>7a246160-69ac-4982-9f2e-cd90bf9f183a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>32758b06-cd7c-4334-a191-56222165aa2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-floating&quot;)/div[@class=&quot;all&quot;]/div[@class=&quot;image image-product-floating desktop&quot;]/img[1]</value>
+      <webElementGuid>75fe9135-f782-4a1b-b450-8c365cb03b55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-floating']/div/div[2]/img</value>
+      <webElementGuid>671ee10e-d451-4c45-b2f0-01f8954e1827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='floating banner']</value>
+      <webElementGuid>c4451a42-0ff5-4efb-8ab0-9fe334ffd9ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/img</value>
+      <webElementGuid>f3725db8-6577-415c-b7ba-ce95045aa554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_default_upload_bucket/FA_FSMP-POSM_Resize-Banner-Desktop.jpg' and @alt = 'floating banner' and @title = 'floating banner']</value>
+      <webElementGuid>af9a732a-cdff-4898-a414-90a2987ddd63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

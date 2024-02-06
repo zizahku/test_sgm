@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pills Promo</name>
+   <tag></tag>
+   <elementGuidId>345d3527-18bc-4643-811b-c839a91b485c</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-container']/section/div/div/div/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.menu-el-tab > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>46369886-8d2e-44b1-adc8-d1a0ee8643ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/event-dan-promo/promo</value>
+      <webElementGuid>d4d8b384-6cfe-44ca-be40-14542979236a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Promo</value>
+      <webElementGuid>691fdec2-eb4c-4a59-909e-f15dca20caf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-container&quot;)/section[@class=&quot;article-grid-detail event-promo-grid&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8 article-master&quot;]/div[@class=&quot;col-md-12 article-wrapper z-3&quot;]/ul[@class=&quot;col-lg-12 master-el-tab-red&quot;]/li[@class=&quot;menu-el-tab&quot;]/a[1]</value>
+      <webElementGuid>9eca84df-9807-48bc-be21-ea8d7eeb8b22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-container']/section/div/div/div/div/ul/li/a</value>
+      <webElementGuid>832fb228-37fd-4677-8321-5a8632dff794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Promo')]</value>
+      <webElementGuid>eefb8c16-b371-43b1-a7b1-5a49e3ce2d4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Tentang'])[1]/following::a[1]</value>
+      <webElementGuid>516a98a7-a3ae-4b0c-943d-8ef34b21a8c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo &amp; Event'])[1]/following::a[1]</value>
+      <webElementGuid>385a9f27-55cc-471f-a4b9-1bd847880c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/preceding::a[1]</value>
+      <webElementGuid>f4712462-5a6e-47f5-9f97-a9441bfc22da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Serunya Ikut Festival Anak Generasi Maju'])[1]/preceding::a[2]</value>
+      <webElementGuid>e59d74e1-4efd-4ca4-81f8-3e3c46f4a8a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Promo']/parent::*</value>
+      <webElementGuid>28b47a38-d900-4235-ba0b-277bbd84c6ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/event-dan-promo/promo')]</value>
+      <webElementGuid>acc45d0c-19a6-404a-9787-a156dab959b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/ul/li/a</value>
+      <webElementGuid>586e3b4a-4350-480b-8ecc-c96160ba9958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/event-dan-promo/promo' and (text() = 'Promo' or . = 'Promo')]</value>
+      <webElementGuid>9d0b5ef9-d967-450b-a247-7c7f223d12c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

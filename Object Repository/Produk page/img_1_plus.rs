@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_plus</name>
+   <tag></tag>
+   <elementGuidId>c25f63fc-eafe-4bc7-acd9-10e49ca3c670</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick=&quot;changeVariant(33,'','vanila');setOnclickVariantDataLayer('1-plus-vanila');&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;SGM Eksplor 1+ dengan IronC™&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = 'https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__596001__product-landing-list-image-desktop/Tumbnail%20Website%20Product%201+.webp' and @alt = 'SGM Eksplor 1+ dengan IronC™' and @title = 'SGM Eksplor 1+ dengan IronC™']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b72e1f58-b6d9-4b9e-b867-845b2e2d7ba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>cec20537-975c-46fa-a6fa-ed29e726e1ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__596001__product-landing-list-image-desktop/Tumbnail%20Website%20Product%201+.webp</value>
+      <webElementGuid>664189c3-c645-4739-882a-40f0795e8889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>SGM Eksplor 1+ dengan IronC™</value>
+      <webElementGuid>a82931f5-ed13-4ee4-87ba-1a73a75616c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SGM Eksplor 1+ dengan IronC™</value>
+      <webElementGuid>64771970-13e3-4a51-9117-9ba491916c3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-container&quot;)/div[@class=&quot;product-revamp&quot;]/div[@class=&quot;pimcore_area_product-landing-list pimcore_area_content&quot;]/section[@class=&quot;product&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product__row&quot;]/div[@class=&quot;product__col&quot;]/a[1]/picture[1]/img[1]</value>
+      <webElementGuid>a134acd0-10a7-42f6-aebc-580b31616dc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-container']/div/div[2]/section/div/div/div/a/picture/img</value>
+      <webElementGuid>43cd70a7-1c2d-4cd3-9432-c1abecead17f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='SGM Eksplor 1+ dengan IronC™']</value>
+      <webElementGuid>c2cef7a6-b43d-4180-bd21-5625ef905d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/picture/img</value>
+      <webElementGuid>ace334e8-2807-4058-86df-6ad0e47585fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__596001__product-landing-list-image-desktop/Tumbnail%20Website%20Product%201+.webp' and @alt = 'SGM Eksplor 1+ dengan IronC™' and @title = 'SGM Eksplor 1+ dengan IronC™']</value>
+      <webElementGuid>9877c6d2-4ac2-4063-9631-9153bac70450</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -3,15 +3,18 @@
    <description></description>
    <name>a_Daftar Klub Generasi Maju</name>
    <tag></tag>
-   <elementGuidId>4c98ee34-256f-4fd1-b6b6-33caca9e010a</elementGuidId>
+   <elementGuidId>dd4592f8-00ec-4a51-884c-e2bfc5d88758</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.btn.btn-rounded.btn-lg.btn-custom-red</value>
+         <key>IMAGE</key>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='keuntungan-kbs']/div/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-rounded.btn-lg.btn-custom-red</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>eeffdfc9-3693-4663-8b52-d89018b8f59d</webElementGuid>
+      <webElementGuid>de82e4f6-202d-4e0a-8cde-de9dd1460c78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +33,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/klub-generasi-maju/register</value>
-      <webElementGuid>c42a003b-b8bc-41f0-8f99-9395cf2c1c39</webElementGuid>
+      <webElementGuid>7f52d0f9-0d19-42da-b19f-1c09cde2763f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-rounded btn-lg btn-custom-red</value>
-      <webElementGuid>5c4b7ce9-3ec4-4a0f-84de-508b88d79b3a</webElementGuid>
+      <webElementGuid>b5b97650-98ff-48c5-b58c-f7972c3662ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,9 +49,8 @@
       <name>text</name>
       <type>Main</type>
       <value>
-Daftar Klub Generasi Maju 
-</value>
-      <webElementGuid>c4110687-0d21-4bff-aab8-82d1bceb7752</webElementGuid>
+Daftar Klub Generasi Maju </value>
+      <webElementGuid>d69f07ba-5406-4541-9a59-b5d9d96243fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +58,7 @@ Daftar Klub Generasi Maju
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;keuntungan-kbs&quot;)/div[@class=&quot;slide-mekanisme&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;right-side&quot;]/a[@class=&quot;btn btn-rounded btn-lg btn-custom-red&quot;]</value>
-      <webElementGuid>eac708ff-2a42-4e44-b9af-3dad70573a1e</webElementGuid>
+      <webElementGuid>f37e44ba-d145-4e78-86ee-87c4a965b927</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +66,7 @@ Daftar Klub Generasi Maju
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='keuntungan-kbs']/div/div/div[2]/a</value>
-      <webElementGuid>9cda0c6c-666e-4e08-8c61-07964e31f873</webElementGuid>
+      <webElementGuid>217339ae-51c0-4232-bba7-8b44cb4ebd7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,39 +74,39 @@ Daftar Klub Generasi Maju
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Daftar Klub Generasi Maju')]</value>
-      <webElementGuid>1ad5dcfe-43d7-4324-b881-cb935c08a92d</webElementGuid>
+      <webElementGuid>30f7e8df-410f-4af4-b7b3-4ee425d5b1f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGM EKSPLOR'])[1]/following::a[1]</value>
-      <webElementGuid>f063e28b-bd84-4ceb-b1cd-1b292c888bb6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGM Eksplor 1+'])[2]/following::a[1]</value>
+      <webElementGuid>9c36ec50-5d6f-4ce8-8de0-0736bc04e8b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan Poin Ekstra'])[1]/following::a[1]</value>
-      <webElementGuid>16cee6f8-1ba7-4424-a86c-6076604f30ba</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEKANISME KLUB GENERASI MAJU'])[1]/following::a[1]</value>
+      <webElementGuid>3f6f2300-0fb9-487a-a336-34f5c67585f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[3]/preceding::a[1]</value>
-      <webElementGuid>8ebc646a-15f8-4289-a8bc-e1afe860721a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.generasimaju.co.id/klub-generasi-maju'])[1]/preceding::a[1]</value>
+      <webElementGuid>6e11c38c-6b12-41a3-a8b0-85f70c8412a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kumpulkan Poin'])[1]/preceding::a[1]</value>
-      <webElementGuid>3e8398ea-fbb9-4987-a130-60d5a57370a4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Klub Generasi Maju'])[2]/preceding::a[2]</value>
+      <webElementGuid>28c60ffd-ddf9-42eb-a2a6-842b71a508af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +114,7 @@ Daftar Klub Generasi Maju
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Daftar Klub Generasi Maju']/parent::*</value>
-      <webElementGuid>f4d62d2a-6e3b-4556-8c6b-104e71539870</webElementGuid>
+      <webElementGuid>49b634b6-1b7f-4aae-9fa2-a39ea2d5a78f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +122,7 @@ Daftar Klub Generasi Maju
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/klub-generasi-maju/register')])[3]</value>
-      <webElementGuid>dd5c051c-8455-40a3-aa40-887184c9b329</webElementGuid>
+      <webElementGuid>3e672a59-33ea-49c4-a190-f995a0651bb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +130,7 @@ Daftar Klub Generasi Maju
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div[2]/a</value>
-      <webElementGuid>25d15087-a705-4f05-9cb4-35159f28c4ba</webElementGuid>
+      <webElementGuid>09696514-5fb0-4a39-8787-a3081582e48d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,10 +138,8 @@ Daftar Klub Generasi Maju
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/klub-generasi-maju/register' and (text() = '
-Daftar Klub Generasi Maju 
-' or . = '
-Daftar Klub Generasi Maju 
-')]</value>
-      <webElementGuid>327ee2b7-5190-4334-bcb8-d65d8f33a0b7</webElementGuid>
+Daftar Klub Generasi Maju ' or . = '
+Daftar Klub Generasi Maju ')]</value>
+      <webElementGuid>1e6dd58a-0d7b-4fba-a2f5-98e520d21dca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

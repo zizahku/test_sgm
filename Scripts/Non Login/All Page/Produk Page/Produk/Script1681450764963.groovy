@@ -25,36 +25,45 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/Homepage/button_SAYA SETUJU'))
 
-WebUI.click(findTestObject('Object Repository/Produk page/a_Produk'))
+WebUI.click(findTestObject('Produk page/header_product'))
 
-WebUI.click(findTestObject('Object Repository/Produk page/button X floating banner'))
-
-WebUI.click(findTestObject('Object Repository/Produk page/icon produk1'))
-
-CurrentUrl = WebUI.getUrl()
-
-WebUI.verifyElementPresent(findTestObject('Homepage/iframe___ nanti ambil'), 20)
-
-WebUI.click(findTestObject('Homepage/input_concat(id(, , __st_bpn_no, , ))_notnow (1)'))
+WebUI.click(findTestObject('Produk page/img_banner landing produk'))
 
 WebUI.delay(2)
 
-WebUI.navigateToUrl('https://www.generasimaju.co.id/produk')
-
-WebUI.click(findTestObject('Object Repository/Produk page/button X floating banner'))
-
-WebUI.click(findTestObject('Produk page/a_MEKANISME KLUB GENERASI MAJU'))
+WebUI.click(findTestObject('Produk page/close popup BPOM'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Produk page/a_KEUNTUNGAN KLUB GENERASI MAJU'))
+WebUI.click(findTestObject('Produk page/input_concat(id(, , __st_bpn_no, , ))_notnow'))
 
-WebUI.delay(2)
+//CurrentUrl = WebUI.getUrl()
+//
+//WebUI.verifyElementPresent(findTestObject('Homepage/iframe___ nanti ambil'), 20)
+//
+//WebUI.click(findTestObject('Homepage/input_concat(id(, , __st_bpn_no, , ))_notnow (1)'))
+//
+//WebUI.delay(2)
+//
+//WebUI.click(findTestObject('Produk page/input_concat(id(, , __st_bpn_no, , ))_notnow'))
 
-WebUI.click(findTestObject('Produk page/a_Daftar Klub Generasi Maju'))
+//WebUI.navigateToUrl('https://www.generasimaju.co.id/produk')
+//
+//WebUI.click(findTestObject('null'))
+//
+//WebUI.click(findTestObject('null'))
+//
+//WebUI.delay(2)
+//
+//WebUI.click(findTestObject('null'))
+//
+//WebUI.delay(2)
+//
+//WebUI.click(findTestObject('null'))
+//
+//WebUI.delay(2)
+//
+//WebUI.navigateToUrl('https://www.generasimaju.co.id/produk')
+//
+//WebUI.closeBrowser()
 
-WebUI.delay(2)
-
-WebUI.navigateToUrl('https://www.generasimaju.co.id/produk')
-
-WebUI.closeBrowser()

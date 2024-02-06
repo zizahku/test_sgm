@@ -36,5 +36,5 @@ WebUI.click(findTestObject('Object Repository/Login/input_login_Password_passwor
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Login/input_login_Password_password'), 'p4y+y39Ir5Oy1MY8jPt0uQ==')
 
-WebUI.click(findTestObject('Object Repository/Login/div_reCAPTCHA_recaptcha-checkbox-border (1)'))
+//WebUI.click(findTestObject('Login/div_reCAPTCHA_recaptcha-checkbox-border'))
 

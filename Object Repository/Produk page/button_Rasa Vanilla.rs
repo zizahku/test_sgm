@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Rasa Vanilla</name>
+   <tag></tag>
+   <elementGuidId>ed7005ae-a2c2-4cbe-bfed-1e63c68cac81</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick=&quot;changeVariant(1819653,'','vanila');setOnclickVariantDataLayer('sgm-yummy-vanila');&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>49e3d3fe-bc21-4a16-9c31-cac6a71b1639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-product</value>
+      <webElementGuid>ccdd46ff-e80b-4110-9988-b29b1b706b17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>changeVariant(1819653,'','vanila');setOnclickVariantDataLayer('sgm-yummy-vanila');</value>
+      <webElementGuid>204a638a-e5f0-4f4f-b72b-7055230d76c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Rasa Vanilla</value>
+      <webElementGuid>4ba3d94c-faae-4043-82f2-4e353d0adaa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;taste-left&quot;)/button[@class=&quot;btn btn-product&quot;]</value>
+      <webElementGuid>81480b6c-8bf3-4389-bd1a-b1813cc9ac0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick=&quot;changeVariant(1819653,'','vanila');setOnclickVariantDataLayer('sgm-yummy-vanila');&quot;]</value>
+      <webElementGuid>c838e15a-19a0-4ff1-a21c-fdfecdfe5dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='taste-left']/button[2]</value>
+      <webElementGuid>52a22454-c41e-4627-8eee-d63994aaa1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rasa Coklat'])[1]/following::button[1]</value>
+      <webElementGuid>d5839fea-03de-4adb-8116-aa003705c7b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGM Family Yummi-Nutri'])[2]/following::button[2]</value>
+      <webElementGuid>98472759-bb60-4e87-a672-7cdf4fe34dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BELI DI SINI'])[1]/preceding::button[3]</value>
+      <webElementGuid>c1420e64-d2e0-4638-99e6-e86120c167a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rasa Vanilla']/parent::*</value>
+      <webElementGuid>ab9a2bc4-029a-4be3-a7bb-90147928011c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>e03402e9-b7d3-4af0-8b1e-69badeae96d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                Rasa Vanilla' or . = '
+                Rasa Vanilla')]</value>
+      <webElementGuid>97a5cd39-2b65-4794-9f36-7d78659d9ce1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

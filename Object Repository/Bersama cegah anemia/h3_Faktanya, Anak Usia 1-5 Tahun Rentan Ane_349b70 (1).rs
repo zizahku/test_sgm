@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Faktanya, Anak Usia 1-5 Tahun Rentan Ane_349b70 (1)</name>
+   <tag></tag>
+   <elementGuidId>0603634e-6041-46c3-9d55-cafe2c782d8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='listArticle']/a/div/div[2]/div/h3</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>98e8297a-6f4d-4ce4-82e6-ed63d985eaa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Faktanya, Anak Usia 1-5 Tahun Rentan Anemia yang Bisa Hambat Perkembangan Otak!</value>
+      <webElementGuid>743dff8e-87ed-4a0c-815e-bec1b1d46b3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;listArticle&quot;)/a[@class=&quot;article-content_list col-md-4&quot;]/div[@class=&quot;article-content_list wrapper&quot;]/div[@class=&quot;content-bottom&quot;]/div[@class=&quot;article-content_list title&quot;]/h3[1]</value>
+      <webElementGuid>6ce93a06-6a8c-4c6e-a971-31750d0a24f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='listArticle']/a/div/div[2]/div/h3</value>
+      <webElementGuid>66590e8a-a46d-4bc1-adec-c3ce01561c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anemia'])[3]/following::h3[1]</value>
+      <webElementGuid>75bf3ed6-a235-4358-8cdb-30ec9c42fd1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kesehatan'])[1]/preceding::h3[1]</value>
+      <webElementGuid>f55ab8f0-4cc5-4305-9e1d-464e91fb7d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baca Sekarang >'])[1]/preceding::h3[1]</value>
+      <webElementGuid>529f6f87-4453-483d-9e30-caf6b7935b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Faktanya, Anak Usia 1-5 Tahun Rentan Anemia yang Bisa Hambat Perkembangan Otak!']/parent::*</value>
+      <webElementGuid>3b30e2ae-da61-429f-881e-a178f9522869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>54d149d0-1d71-4966-a240-a8fb95f7f0b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Faktanya, Anak Usia 1-5 Tahun Rentan Anemia yang Bisa Hambat Perkembangan Otak!' or . = 'Faktanya, Anak Usia 1-5 Tahun Rentan Anemia yang Bisa Hambat Perkembangan Otak!')]</value>
+      <webElementGuid>f995f7ee-1817-4633-8e95-be3f07d03fb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

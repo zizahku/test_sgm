@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_optigrow</name>
+   <tag></tag>
+   <elementGuidId>57aad4d8-e2e2-4c56-80d1-e658af5c9a1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-container']/div/div[2]/section/div/div/div[7]/a/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;SGM Eksplor Gain Optigrow Pro-gress Maxx dengan IronC&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7a79d2da-33e9-46b6-9ae7-e1cd5cdadcfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>99ea87fd-2a03-4639-9145-c94405dffe43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dncgty1mvp6vd.cloudfront.net/product%20optigrow/image-thumb__501345__product-landing-list-image-desktop/MicrosoftTeams-image%20%281%29%20%281%29.webp</value>
+      <webElementGuid>c6f1d184-e5fc-4c21-8c35-6301deffe333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>SGM Eksplor Gain Optigrow Pro-gress Maxx dengan IronC</value>
+      <webElementGuid>903ba827-594b-447d-9dfd-61e66d026cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SGM Eksplor Gain Optigrow Pro-gress Maxx dengan IronC</value>
+      <webElementGuid>2528eff1-ff46-455b-af8d-fdce559699fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-container&quot;)/div[@class=&quot;product-revamp&quot;]/div[@class=&quot;pimcore_area_product-landing-list pimcore_area_content&quot;]/section[@class=&quot;product&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product__row&quot;]/div[@class=&quot;product__col&quot;]/a[1]/picture[1]/img[1]</value>
+      <webElementGuid>35144b9b-6b14-4897-b2d8-466a9c9e8465</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-container']/div/div[2]/section/div/div/div[7]/a/picture/img</value>
+      <webElementGuid>ad13e710-295b-4ad4-8fb2-3ea8184c6649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='SGM Eksplor Gain Optigrow Pro-gress Maxx dengan IronC']</value>
+      <webElementGuid>0a4c813d-f09d-4d02-9007-3241b97633f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/a/picture/img</value>
+      <webElementGuid>0d0a189b-8c6f-43d6-b5ca-dc4a1c357bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://dncgty1mvp6vd.cloudfront.net/product%20optigrow/image-thumb__501345__product-landing-list-image-desktop/MicrosoftTeams-image%20%281%29%20%281%29.webp' and @alt = 'SGM Eksplor Gain Optigrow Pro-gress Maxx dengan IronC' and @title = 'SGM Eksplor Gain Optigrow Pro-gress Maxx dengan IronC']</value>
+      <webElementGuid>8c680db1-460e-47bd-afaa-bce4c6008981</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_5plus</name>
+   <tag></tag>
+   <elementGuidId>9f5b32af-933f-4129-9485-7c9f650af0e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-container']/div/div[2]/section/div/div/div[3]/a/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;SGM Eksplor 5 Plus Pro-gress Maxx dengan IronC &quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b339a34f-71ed-43f7-87e1-afe44492ecf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>2f7aed00-2d3b-4540-9562-60caee2e479c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__596006__product-landing-list-image-desktop/Tumbnail%20Website%20Product%205+_1.webp</value>
+      <webElementGuid>effc38fd-74b1-4a04-af50-1070542b24f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>SGM Eksplor 5 Plus Pro-gress Maxx dengan IronC </value>
+      <webElementGuid>120dd303-6a96-4763-8790-ff2ed14649a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SGM Eksplor 5 Plus Pro-gress Maxx dengan IronC </value>
+      <webElementGuid>f464c6f8-358a-4a4a-8f26-a59cdb486b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-container&quot;)/div[@class=&quot;product-revamp&quot;]/div[@class=&quot;pimcore_area_product-landing-list pimcore_area_content&quot;]/section[@class=&quot;product&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product__row&quot;]/div[@class=&quot;product__col&quot;]/a[1]/picture[1]/img[1]</value>
+      <webElementGuid>7b5708f8-032f-4464-912b-3f554da29b3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-container']/div/div[2]/section/div/div/div[3]/a/picture/img</value>
+      <webElementGuid>62a4b01c-de50-413f-8a93-53df8e9b899c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='SGM Eksplor 5 Plus Pro-gress Maxx dengan IronC ']</value>
+      <webElementGuid>b0dc110f-00bb-471f-833c-aceff96f9c9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/picture/img</value>
+      <webElementGuid>9aa89914-677d-417a-a038-44640502c397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__596006__product-landing-list-image-desktop/Tumbnail%20Website%20Product%205+_1.webp' and @alt = 'SGM Eksplor 5 Plus Pro-gress Maxx dengan IronC ' and @title = 'SGM Eksplor 5 Plus Pro-gress Maxx dengan IronC ']</value>
+      <webElementGuid>5f4215d8-00e6-4d1b-b05c-15714dea6be9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

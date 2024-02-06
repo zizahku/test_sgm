@@ -3,15 +3,18 @@
    <description></description>
    <name>a_MEKANISME KLUB GENERASI MAJU</name>
    <tag></tag>
-   <elementGuidId>99c5f202-d618-461a-be6a-4707d05405f1</elementGuidId>
+   <elementGuidId>12f2c6bd-5210-4db9-a3b0-a922c6f4d12d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#mekanisme-kbs-tab</value>
+         <key>IMAGE</key>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[@id='mekanisme-kbs-tab']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mekanisme-kbs-tab</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a77796d2-e570-4dbd-b00a-e63d2a41dea7</webElementGuid>
+      <webElementGuid>26fc865e-a798-43c1-91a5-a486af727a58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link mekanisme-kbs</value>
-      <webElementGuid>c3092a85-a449-402f-a5ad-edfc45631242</webElementGuid>
+      <webElementGuid>bfa7f578-5972-4d3b-a302-c9ee2735b3ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +41,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mekanisme-kbs-tab</value>
-      <webElementGuid>ec010398-ed85-4c3e-828d-634b75fbf426</webElementGuid>
+      <webElementGuid>391f8e54-1446-42f1-9431-7f84fe3f6512</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +49,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>99449adb-a931-447f-92d1-da43274eef4a</webElementGuid>
+      <webElementGuid>90f76414-1c7b-405a-a9aa-93e8ad69033b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +57,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#mekanisme-kbs</value>
-      <webElementGuid>778fc6dc-4703-40d0-b591-7f29e715f5c9</webElementGuid>
+      <webElementGuid>2bde9a1d-8890-4bf8-8e49-0c753035acef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +65,7 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>8c128335-b2b5-4715-b7dc-ad2675eb5391</webElementGuid>
+      <webElementGuid>868d2b2d-bfb8-4933-bbd8-79614e9832bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>mekanisme-kbs</value>
-      <webElementGuid>02cbbed5-9c2f-41ed-bb7c-3cab6f1d7ab3</webElementGuid>
+      <webElementGuid>7334d83c-b45f-488e-b55f-dc0f3fbf56e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>1190fb6a-ff4c-43bd-b2a4-2f54717fdcdc</webElementGuid>
+      <webElementGuid>b23d7c8f-0594-4e01-b89a-03f3ba5461b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +90,7 @@
       <type>Main</type>
       <value>
 MEKANISME KLUB GENERASI MAJU </value>
-      <webElementGuid>3517d5d2-7669-4e12-ac2d-96cb82fba138</webElementGuid>
+      <webElementGuid>d382e652-e792-43f6-bb1c-dd0ea43eb587</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +98,7 @@ MEKANISME KLUB GENERASI MAJU </value>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mekanisme-kbs-tab&quot;)</value>
-      <webElementGuid>62a9b229-fcb8-48cf-8cc7-f08b1699390e</webElementGuid>
+      <webElementGuid>5b775385-25cf-4d0e-9be7-242ea9c11a82</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +106,7 @@ MEKANISME KLUB GENERASI MAJU </value>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='mekanisme-kbs-tab']</value>
-      <webElementGuid>28043888-3b67-4387-b7ce-537a1fef32f3</webElementGuid>
+      <webElementGuid>132c4721-49b0-4cd4-9edc-8a81dc478639</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +114,7 @@ MEKANISME KLUB GENERASI MAJU </value>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='myTab']/li[2]/a</value>
-      <webElementGuid>ec4c4e1c-23cf-40a5-9d91-5353470da5e9</webElementGuid>
+      <webElementGuid>77b378e1-f65b-49ef-8b00-3082802a3907</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,15 +122,15 @@ MEKANISME KLUB GENERASI MAJU </value>
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'MEKANISME KLUB GENERASI MAJU')]</value>
-      <webElementGuid>08d0d756-0203-4bb4-ab05-1537552d664c</webElementGuid>
+      <webElementGuid>b9b4a483-e171-426c-8c58-b9122eb12fcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='KEUNTUNGAN KLUB GENERASI MAJU'])[1]/following::a[1]</value>
-      <webElementGuid>1f375eb8-5340-4292-81a2-efd80803b6d3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keuntungan Klub Generasi Maju'])[1]/following::a[1]</value>
+      <webElementGuid>34dee39b-81a5-4d5b-a401-a82a3c31fd13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,23 +138,23 @@ MEKANISME KLUB GENERASI MAJU </value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bergabunglah di Klub Generasi Maju!'])[1]/following::a[2]</value>
-      <webElementGuid>4b28598a-4463-4fef-b5ac-8c62cc3225da</webElementGuid>
+      <webElementGuid>835b3977-ff63-4930-a938-354c8b1b349f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan Poin Ekstra'])[1]/preceding::a[1]</value>
-      <webElementGuid>d41bcceb-4cc2-44ea-b6ca-b6f7484aa826</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGM Eksplor 1+'])[2]/preceding::a[1]</value>
+      <webElementGuid>1b9612f6-23fb-4c8f-ae3d-89a744b7122c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGM EKSPLOR'])[1]/preceding::a[1]</value>
-      <webElementGuid>1173dc8b-e12d-4db6-a18c-c2ef6acd6833</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Klub Generasi Maju'])[1]/preceding::a[1]</value>
+      <webElementGuid>8cab4357-7945-45d4-8384-4d30c84f3e67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +162,7 @@ MEKANISME KLUB GENERASI MAJU </value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='MEKANISME KLUB GENERASI MAJU']/parent::*</value>
-      <webElementGuid>4c6cb236-39c5-4673-8323-88264f6af327</webElementGuid>
+      <webElementGuid>e9a73678-159b-40fc-8061-ba1338488b41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,15 +170,15 @@ MEKANISME KLUB GENERASI MAJU </value>
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#mekanisme-kbs')]</value>
-      <webElementGuid>c6b8179a-c57e-48a4-985a-9662f3bb43c9</webElementGuid>
+      <webElementGuid>22cf6d33-d2fc-4afd-a907-db66ecded1d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//section/div/div/ul/li[2]/a</value>
-      <webElementGuid>10faa940-6dcb-4ce7-9708-fbdcc0753295</webElementGuid>
+      <value>//section[7]/div/div/ul/li[2]/a</value>
+      <webElementGuid>acc36726-c914-4b3d-a1d4-4aeb425961f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -185,6 +188,6 @@ MEKANISME KLUB GENERASI MAJU </value>
       <value>//a[@id = 'mekanisme-kbs-tab' and @href = '#mekanisme-kbs' and (text() = '
 MEKANISME KLUB GENERASI MAJU ' or . = '
 MEKANISME KLUB GENERASI MAJU ')]</value>
-      <webElementGuid>5d3ada99-d3a4-41fa-828b-82fbafa00eff</webElementGuid>
+      <webElementGuid>f4983704-c03c-4a2d-a4d2-69f0a6b45692</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BELI disini merchant</name>
+   <tag></tag>
+   <elementGuidId>65fc036f-690e-472b-ac8f-a9205b4f063f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='allGramasi']/div[6]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e1f4847d-fced-44a2-a428-b4bc009c87a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.tokopedia.com/sgmofficialstore/sgm-eksplor-1-dengan-ironc-susu-pertumbuhan-rasa-madu-150gr?extParam=src%3Dshop%26whid%3D2901081</value>
+      <webElementGuid>cc5dacc8-145b-4e18-82bb-6c23271cd6e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>e3077e38-a0c3-493a-ba81-adf243dd5ff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-rounded btn-custom-red</value>
+      <webElementGuid>51177b65-5e72-43f1-bf93-8009d929ff2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BELI SEKARANG</value>
+      <webElementGuid>eebdaafe-aca8-4978-85ed-bf26fd59b5f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;allGramasi&quot;)/div[@class=&quot;item&quot;]/div[@class=&quot;btn-beli&quot;]/a[@class=&quot;btn btn-rounded btn-custom-red&quot;]</value>
+      <webElementGuid>32e1348c-d74f-4a2a-879f-e9c5d7291702</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='allGramasi']/div[6]/div[2]/a</value>
+      <webElementGuid>245ccc56-38af-44f3-8382-8ddb87379a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'BELI SEKARANG')])[6]</value>
+      <webElementGuid>dcf09610-ac7d-4654-a80f-810fc7ca3411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BELI SEKARANG'])[6]/following::a[1]</value>
+      <webElementGuid>f2b17fa1-bf1b-46e5-b8ff-5a86298d41bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BELI SEKARANG'])[5]/following::a[2]</value>
+      <webElementGuid>9edf7a02-5eff-4adc-a3bd-09146e876790</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BELI SEKARANG'])[8]/preceding::a[1]</value>
+      <webElementGuid>44ff9864-0fb1-43c6-ab74-0f828007dc72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BELI SEKARANG'])[9]/preceding::a[2]</value>
+      <webElementGuid>14a2fdbf-3d28-4b57-9907-0dd2fc75f155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.tokopedia.com/sgmofficialstore/sgm-eksplor-1-dengan-ironc-susu-pertumbuhan-rasa-madu-150gr?extParam=src%3Dshop%26whid%3D2901081')]</value>
+      <webElementGuid>5f16a4aa-d894-4747-9e72-82d5e8d084b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/a</value>
+      <webElementGuid>6d71733d-a8ab-42b1-a1b0-a04a6fc5ab34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.tokopedia.com/sgmofficialstore/sgm-eksplor-1-dengan-ironc-susu-pertumbuhan-rasa-madu-150gr?extParam=src%3Dshop%26whid%3D2901081' and (text() = 'BELI SEKARANG' or . = 'BELI SEKARANG')]</value>
+      <webElementGuid>641b4a04-eacc-4e60-a992-8641a10b89f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

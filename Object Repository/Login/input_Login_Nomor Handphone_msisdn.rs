@@ -11,15 +11,15 @@
          <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#phone-number</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='phone-number']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#phone-number</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>IMAGE</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -27,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1f4c6bb8-fb09-4d59-a98a-661386544545</webElementGuid>
+      <webElementGuid>b1fea3e8-d208-4819-ac05-688cff4055da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -35,7 +35,7 @@
       <name>name</name>
       <type>Main</type>
       <value>msisdn</value>
-      <webElementGuid>d598c160-d40b-4a09-b7df-310f101e78c8</webElementGuid>
+      <webElementGuid>7ba39c40-957c-4cc2-a143-4d1385884f83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,7 +43,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>df082f3a-d072-415e-8275-4d319dc6d4bf</webElementGuid>
+      <webElementGuid>e54f8d98-c9bc-48ad-91f0-f4470fc583b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -51,7 +51,7 @@
       <name>id</name>
       <type>Main</type>
       <value>phone-number</value>
-      <webElementGuid>2de20483-7cbe-4b76-95a0-dbcde3cfa9ae</webElementGuid>
+      <webElementGuid>75dd304d-c433-40c4-b80c-f507f5bb677b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +59,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control kgm__form--input w-100</value>
-      <webElementGuid>b55385b8-13a2-4d18-8642-bed38e8994f1</webElementGuid>
+      <webElementGuid>d2e9759a-3675-4432-886c-7d3093999c99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -67,7 +67,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan Nomor Handphone</value>
-      <webElementGuid>7b04949a-a583-4442-809b-1ddb8fb338de</webElementGuid>
+      <webElementGuid>01eb7ec3-0181-457f-b79e-0523c74bab66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;phone-number&quot;)</value>
-      <webElementGuid>3e68f866-38b0-4bc3-a89c-489c7807e4d1</webElementGuid>
+      <webElementGuid>aff879e7-cf24-4433-a41b-2699d3ed222a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='phone-number']</value>
-      <webElementGuid>9d938fcf-ea23-41db-9042-8167af2aaee0</webElementGuid>
+      <webElementGuid>7ec9b51f-5942-4f05-9bdd-b96b5db12148</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form-login']/div[2]/input</value>
-      <webElementGuid>1e086397-e1b8-422d-984c-1298e50dbeb4</webElementGuid>
+      <webElementGuid>2ee4df74-c641-48d0-b92b-506531a0915a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>5fe55a01-32df-48a6-b31f-ae91c55d6294</webElementGuid>
+      <webElementGuid>cec7a0e5-64e8-4581-bed7-24c0b7e092fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,6 +107,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'msisdn' and @type = 'number' and @id = 'phone-number' and @placeholder = 'Masukkan Nomor Handphone']</value>
-      <webElementGuid>84226e0e-038b-44f1-a355-d94d26b8d20e</webElementGuid>
+      <webElementGuid>4db10a8b-11bd-48b7-a213-19c41cbe889b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

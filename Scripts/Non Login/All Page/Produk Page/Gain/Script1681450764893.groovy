@@ -17,3 +17,56 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://www.generasimaju.co.id/')
+
+WebUI.click(findTestObject('Object Repository/Homepage/button_SAYA SETUJU'))
+
+WebUI.click(findTestObject('Produk page/input_concat(id(, , __st_bpn_no, , ))_notnow'))
+
+WebUI.click(findTestObject('Produk page/header_product'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Produk page/close X popup produk landing'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Produk page/img_optigrow'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Produk page/button_BELI DI SINI'))
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Produk page/button close popup merchant'))
+
+WebUI.click(findTestObject('Produk page/buka komposisi sgm'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Produk page/buka petunjuk penyajian'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Produk page/button_Next promo event'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Produk page/button_BELI SEKARANG'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Produk page/button close popup merchant'))
+
+WebUI.delay(1)
+
+WebUI.executeJavaScript('window.scrollTo(0, -document.body.scrollHeight);', null)
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Produk page/highlight_1 PLUS'))
+

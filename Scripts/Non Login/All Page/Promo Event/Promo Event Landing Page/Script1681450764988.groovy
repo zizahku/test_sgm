@@ -23,13 +23,10 @@ WebUI.navigateToUrl('https://www.generasimaju.co.id/')
 
 WebUI.click(findTestObject('Object Repository/Promo Event/button_SAYA SETUJU'))
 
-WebUI.click(findTestObject('Object Repository/Promo Event/a_Promo  Event'))
+WebUI.click(findTestObject('Object Repository/Promo Event/header_Promo Event'))
 
-WebUI.click(findTestObject('Object Repository/Promo Event/a_Baca Selengkapnya'))
-
-WebUI.click(findTestObject('Object Repository/Promo Event/img_Baca Selengkapnya_media-object image-ob_19dc64'))
-
-WebUI.click(findTestObject('Object Repository/Promo Event/img_Promo Terpopuler_media-object image-object'))
-
-WebUI.closeBrowser()
+//WebUI.click(findTestObject('Promo Event/breadcrumb Beranda'))
+//
+//WebUI.back()
+WebUI.click(findTestObject('Promo Event/card Baca Selengkapnya'))
 

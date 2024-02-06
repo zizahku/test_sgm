@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cari Tahu Lebih Lanjut</name>
+   <tag></tag>
+   <elementGuidId>ea0ca052-3485-47e5-b86a-53532462ee8d</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='ironc-pencegahan']/div/div[2]/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.title-cta > a.btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>70ecb602-896f-4c9b-be56-1eddada2a3a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>produk/sgm-eksplor-3-plus</value>
+      <webElementGuid>88a46b66-8f89-4d87-afd7-d57277a353e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn</value>
+      <webElementGuid>dbd6d44e-df14-4f7c-a30e-83f1d08c9e6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cari Tahu Lebih Lanjut</value>
+      <webElementGuid>2ed3dc1f-1f45-4d60-b085-1962dbb45649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ironc-pencegahan&quot;)/div[@class=&quot;content-container&quot;]/div[@class=&quot;right&quot;]/div[@class=&quot;cta-ironc-pencegahan&quot;]/div[@class=&quot;title-cta&quot;]/a[@class=&quot;btn&quot;]</value>
+      <webElementGuid>851a34f3-861a-4646-8a58-70a86202d874</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='ironc-pencegahan']/div/div[2]/div[2]/div/a</value>
+      <webElementGuid>14f7e1df-1e7d-47d3-8f41-ce3fe8c99b7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cari Tahu Lebih Lanjut')]</value>
+      <webElementGuid>2920b85c-deb6-4a62-9bd7-2c35a85ee8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anemia'])[4]/following::a[1]</value>
+      <webElementGuid>27b69066-e92c-4aa9-92ce-6fcbfb1d734d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/preceding::a[1]</value>
+      <webElementGuid>824f9011-bbb7-4eb3-93c5-8e55ae90f0b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat &amp; Ketentuan'])[1]/preceding::a[2]</value>
+      <webElementGuid>474f081d-d172-4e2c-a427-e3d8bae0ab77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cari Tahu Lebih Lanjut']/parent::*</value>
+      <webElementGuid>4c6f1b3f-c8c8-4cde-84b2-27928020b3df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'produk/sgm-eksplor-3-plus')]</value>
+      <webElementGuid>650ff3dd-f2a4-4d98-b98b-2401c3e370ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/a</value>
+      <webElementGuid>8005b9c2-e472-44e2-930f-f661e6713257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'produk/sgm-eksplor-3-plus' and (text() = 'Cari Tahu Lebih Lanjut' or . = 'Cari Tahu Lebih Lanjut')]</value>
+      <webElementGuid>cce25f9e-da2c-4b49-9d2c-a5fa21750a79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

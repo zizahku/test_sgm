@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_600 gr</name>
+   <tag></tag>
+   <elementGuidId>238abc43-f515-4bee-9f80-cb9c3528716d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick=&quot;setGramasi(286931);changeVariantModal(33,'','vanila');changeVariantGramasi(33,'','vanila');&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '600 gr' or . = '600 gr')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>464b7de6-c28b-4fe8-b826-a6f4abc1736e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>setGramasi(286931);changeVariantModal(33,'','vanila');changeVariantGramasi(33,'','vanila');</value>
+      <webElementGuid>5870b1d5-879a-44e6-aa88-e647fa8b4058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-product</value>
+      <webElementGuid>42f26643-f13c-4d96-81d6-7cefda6376c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>600 gr</value>
+      <webElementGuid>fbb0402f-7812-49c5-80e3-62801c1ef7e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gramasiList&quot;)/button[@class=&quot;btn btn-product&quot;]</value>
+      <webElementGuid>b89f0abe-3db2-4d82-bf8a-1a7513a7af78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick=&quot;setGramasi(286931);changeVariantModal(33,'','vanila');changeVariantGramasi(33,'','vanila');&quot;]</value>
+      <webElementGuid>cf670278-92e4-4bc3-be89-153f7e9afd60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gramasiList']/button[3]</value>
+      <webElementGuid>bf855c08-2927-4346-833e-8354b1de8404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rasa Vanila'])[1]/following::button[3]</value>
+      <webElementGuid>916ebc4b-bd4e-4119-8efd-e7c3aaf79199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rasa Madu'])[1]/following::button[4]</value>
+      <webElementGuid>7ae361bf-7e4a-4d40-8946-06c0f8533c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BELI DI SINI'])[1]/preceding::button[2]</value>
+      <webElementGuid>516d9d76-f229-4d5e-9cd9-f551d5691175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disclaimer'])[1]/preceding::button[3]</value>
+      <webElementGuid>a5724b57-1208-4a10-aaa3-4c10fee389ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='600 gr']/parent::*</value>
+      <webElementGuid>a081c73c-ddd3-4860-b20f-fb66aff92083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>fbf4511e-2161-4ed7-a2db-12201e5a6c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '600 gr' or . = '600 gr')]</value>
+      <webElementGuid>68355590-b89c-47e8-b948-a33edf1c85c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

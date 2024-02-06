@@ -6,12 +6,12 @@
    <elementGuidId>16764640-3648-4483-b2b0-3a4cee8b9bc9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='promo']/div/div/div/div/div/div[2]/div/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.col-xs-12.right-card-footer.push-right-a-15 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='promo']/div/div/div/div/div/div[2]/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>17bbd192-fb10-4838-b815-adf5a66d1203</webElementGuid>
+      <webElementGuid>0e7c3680-d469-43b3-9f16-00dd5bbf4619</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/event-dan-promo/promo/program-submit-pertama-kali-dapatkan-saldo-gopay</value>
-      <webElementGuid>240397b2-6135-4024-812a-848f4f3c53b8</webElementGuid>
+      <webElementGuid>de2d9996-9ea2-46e7-9f26-2ad474faded2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Baca Selengkapnya ></value>
-      <webElementGuid>0cc0201c-a105-464e-b597-f8f7a0cda8f8</webElementGuid>
+      <webElementGuid>f06b228a-592b-41f2-9296-23eae4f443ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;promo&quot;)/div[@class=&quot;col-lg-8 article-master&quot;]/div[@class=&quot;col-md-12 article-wrapper z-3&quot;]/div[@class=&quot;col-md-12 container-promo container-promo-push-p z-2&quot;]/div[@class=&quot;card mb-3&quot;]/div[@class=&quot;card-body card-special-when-mobile float-left push-bottom-30&quot;]/div[@class=&quot;card-text p-card-text&quot;]/div[@class=&quot;col-xs-12 right-card-footer push-right-a-15&quot;]/a[1]</value>
-      <webElementGuid>973d9fd4-0ce5-489e-a4af-8a77ff099e0d</webElementGuid>
+      <webElementGuid>c9a168ba-b0db-4ad7-9862-fd68dde0dd10</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='promo']/div/div/div/div/div/div[2]/div/a</value>
-      <webElementGuid>78fee963-70e4-45c8-bf52-0acf4edc8d45</webElementGuid>
+      <webElementGuid>6aa8aa18-bc8c-4acf-b290-2541f75b7499</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Baca Selengkapnya >')]</value>
-      <webElementGuid>7f92c62e-9313-4d4b-b6e5-014cc27e744a</webElementGuid>
+      <webElementGuid>a86aed0c-d52c-421a-863a-3eeb5122392f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PROGRAM “Submit Pertama Kali SGM Family...'])[1]/following::a[1]</value>
-      <webElementGuid>c2994e43-8bb9-47ef-9504-c3c29f6b8e7b</webElementGuid>
+      <webElementGuid>fb896fc3-519a-435c-b385-b1476bc0a5c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/following::a[1]</value>
-      <webElementGuid>dc9e755e-4ed6-4264-ba1a-474622e6fce8</webElementGuid>
+      <webElementGuid>c184946d-d419-4c31-abf5-8786ad36b0d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Baca Selengkapnya >']/parent::*</value>
-      <webElementGuid>30d2fea7-f638-4cb8-a9d0-4aab8b3b995e</webElementGuid>
+      <webElementGuid>9871a6d5-1ea7-4b07-9a4f-1fac081f6bbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/event-dan-promo/promo/program-submit-pertama-kali-dapatkan-saldo-gopay')]</value>
-      <webElementGuid>ac46b2c6-aa7f-4eaf-a617-7ad34d5f39f6</webElementGuid>
+      <webElementGuid>1bddf783-37b6-4703-80c9-eca9931bc69b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div[2]/div/a</value>
-      <webElementGuid>4a8a4919-b87e-47d4-be32-485698bc9e46</webElementGuid>
+      <webElementGuid>15233520-9f0d-4760-9ddf-31bd88992e88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/event-dan-promo/promo/program-submit-pertama-kali-dapatkan-saldo-gopay' and (text() = 'Baca Selengkapnya >' or . = 'Baca Selengkapnya >')]</value>
-      <webElementGuid>c20c60e7-a866-4032-92ee-6d5d4453b3a0</webElementGuid>
+      <webElementGuid>a35a6e69-1cc1-4e37-98d4-cb253cbe7823</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

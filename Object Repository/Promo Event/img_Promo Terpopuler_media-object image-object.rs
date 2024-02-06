@@ -4,17 +4,26 @@
    <name>img_Promo Terpopuler_media-object image-object</name>
    <tag></tag>
    <elementGuidId>cbbadece-669c-4094-9acc-a7224a9d93b9</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='promo']/div[2]/div/div/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = 'https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__594606__event-promo-article-small/Thumbnail%20%5BLowres%5D_1.webp' and @title = 'PROGRAM “Submit Pertama Kali SGM Family Yummy-Nutri Dapat Gopay hingga Rp. 20.000,-”' and @alt = 'PROGRAM “Submit Pertama Kali SGM Family Yummy-Nutri Dapat Gopay hingga Rp. 20.000,-”']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.box.box-solid.box-newline-15 > div.box-body > div.media > div.media-left > a.ad-click-event > img.media-object.image-object</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +31,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>4b11dbf7-44b7-4cc7-89a9-cac22af8d737</webElementGuid>
+      <webElementGuid>345d9d54-d0c4-478c-a910-33712218f21c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +39,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__594606__event-promo-article-small/Thumbnail%20%5BLowres%5D_1.webp</value>
-      <webElementGuid>9a43392f-d747-4429-a2ce-db0aa395ee3b</webElementGuid>
+      <webElementGuid>a27023b2-a610-4568-ab9c-cb2b62fcc733</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +47,7 @@
       <name>title</name>
       <type>Main</type>
       <value>PROGRAM “Submit Pertama Kali SGM Family Yummy-Nutri Dapat Gopay hingga Rp. 20.000,-”</value>
-      <webElementGuid>2027ad04-f73b-4c50-810d-a5cd4183a7be</webElementGuid>
+      <webElementGuid>36e4309a-2578-441b-a90f-dec64c772ccc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +55,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>PROGRAM “Submit Pertama Kali SGM Family Yummy-Nutri Dapat Gopay hingga Rp. 20.000,-”</value>
-      <webElementGuid>29a0342e-85ab-4664-889c-03fc4a511ed1</webElementGuid>
+      <webElementGuid>1542b3a4-6736-416a-b558-57ea8af1343d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>media-object image-object</value>
-      <webElementGuid>962d5793-188a-488f-8ae8-591177cef2b9</webElementGuid>
+      <webElementGuid>e049144e-48c8-4042-b4f2-2d55c6e455dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +71,7 @@
       <name>height</name>
       <type>Main</type>
       <value>116</value>
-      <webElementGuid>9b732f2c-547c-4511-a15a-4b2b39b75e3d</webElementGuid>
+      <webElementGuid>67e7abe7-6e49-4d20-9055-33fccaca8576</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +79,7 @@
       <name>width</name>
       <type>Main</type>
       <value>116</value>
-      <webElementGuid>0f9f05c8-0f8f-4879-b69e-7ba0040f325d</webElementGuid>
+      <webElementGuid>ef351c59-316b-4aa8-bd9a-9443b66eb1c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;promo&quot;)/div[@class=&quot;col-lg-4 popular-article-master popular-event-promo z-2&quot;]/div[@class=&quot;box box-solid box-newline-15&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-left&quot;]/a[@class=&quot;ad-click-event&quot;]/img[@class=&quot;media-object image-object&quot;]</value>
-      <webElementGuid>a1332da1-a97c-49ba-9b17-c7a66e7133fe</webElementGuid>
+      <webElementGuid>e1d30085-b110-40cf-8e43-3e53573a64f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='promo']/div[2]/div/div/div/div/a/img</value>
-      <webElementGuid>575fad78-c116-4997-829a-d0dcb7232d13</webElementGuid>
+      <webElementGuid>35c84c1f-c309-4f0a-a464-bb91d90388be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +103,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='PROGRAM “Submit Pertama Kali SGM Family Yummy-Nutri Dapat Gopay hingga Rp. 20.000,-”']</value>
-      <webElementGuid>ba531b04-4cc8-46f2-bc73-d32cb86cbcc8</webElementGuid>
+      <webElementGuid>3b098acb-c8d3-4754-85af-ebdd1eb67b65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/a/img</value>
-      <webElementGuid>2793996f-5d3b-4605-9883-0dcf82bb23ba</webElementGuid>
+      <webElementGuid>00279364-313f-459a-b814-fa87329c677c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://dncgty1mvp6vd.cloudfront.net/_default_upload_bucket/image-thumb__594606__event-promo-article-small/Thumbnail%20%5BLowres%5D_1.webp' and @title = 'PROGRAM “Submit Pertama Kali SGM Family Yummy-Nutri Dapat Gopay hingga Rp. 20.000,-”' and @alt = 'PROGRAM “Submit Pertama Kali SGM Family Yummy-Nutri Dapat Gopay hingga Rp. 20.000,-”']</value>
-      <webElementGuid>36d45abb-7b80-415d-83ef-ee8f58407236</webElementGuid>
+      <webElementGuid>c2266ab3-ce3a-4434-a7be-9e8a131d87ec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

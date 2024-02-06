@@ -72,21 +72,21 @@ To ensure all page and button is work properly</description>
       <guid>017ed6c6-07c6-4747-a9c8-b1e6fcd54cbc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Non Login/All Page/Produk Page/Produk 1</testCaseId>
+      <testCaseId>Test Cases/Non Login/All Page/Produk Page/Produk 1plus</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>7e4ef8c0-7ffb-4925-ae32-3c06cac46a9f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Non Login/All Page/Produk Page/Produk 3</testCaseId>
+      <testCaseId>Test Cases/Non Login/All Page/Produk Page/Produk 3plus</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>1b1dbf3c-a307-43f5-80cc-d2df179eb73e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Non Login/All Page/Produk Page/Produk 5</testCaseId>
+      <testCaseId>Test Cases/Non Login/All Page/Produk Page/Produk 5 plus</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -100,7 +100,7 @@ To ensure all page and button is work properly</description>
       <guid>2c04a7d3-156d-4211-b290-946e856a3af3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Non Login/All Page/Promo Event/Even Landing Page</testCaseId>
+      <testCaseId>Test Cases/Non Login/All Page/Promo Event/Event Landing Page</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
