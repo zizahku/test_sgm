@@ -6,12 +6,12 @@
    <elementGuidId>1efc7e30-dda0-4aff-9b93-5a1206ed3167</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='btn-modal-date']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#btn-modal-date</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='btn-modal-date']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f5942f0e-664d-4869-ae8c-669b020a47b5</webElementGuid>
+      <webElementGuid>6a5a0aca-c67a-48ee-98eb-ddfb8c6e2749</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-modal-date</value>
-      <webElementGuid>017840c5-7c75-4cbf-bcbb-a094eb4129cb</webElementGuid>
+      <webElementGuid>1c556d40-930b-4d3c-a715-33754ff23818</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>date-form</value>
-      <webElementGuid>3831c9bc-8347-49a8-9dbd-56782f4e57f2</webElementGuid>
+      <webElementGuid>89343c34-789f-4ccf-b6bb-16e95ab0a26f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>showModal()</value>
-      <webElementGuid>b43b4727-5469-450b-aae2-ff04df0ab04f</webElementGuid>
+      <webElementGuid>9b22d750-65f0-4240-b3bb-4cebec7169bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
 
 Masukan Tanggal HPHT
 </value>
-      <webElementGuid>1020a10e-f488-4cf0-815e-c89de77d3055</webElementGuid>
+      <webElementGuid>f40da215-9c2b-4328-b358-13b919a8301c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@ Masukan Tanggal HPHT
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-modal-date&quot;)</value>
-      <webElementGuid>3003ce5a-f7e4-4b4e-9c19-0b47191fc49b</webElementGuid>
+      <webElementGuid>8dba042b-0e67-4a8f-b065-9b0067b78f15</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@ Masukan Tanggal HPHT
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='btn-modal-date']</value>
-      <webElementGuid>5d80bb56-e9f3-43dd-9dec-94d5bd0c1f0d</webElementGuid>
+      <webElementGuid>7afe6730-f8ca-44dd-b08f-900f64b93d50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@ Masukan Tanggal HPHT
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='kalkulator-kehamilan']/div/div/form/div</value>
-      <webElementGuid>cb81722a-3cb9-43ae-8882-8fb43c107429</webElementGuid>
+      <webElementGuid>09dca711-f876-4f07-88c9-3a25989b0e92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@ Masukan Tanggal HPHT
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hari Pertama Haid Terakhir (HPHT)*'])[1]/following::div[1]</value>
-      <webElementGuid>7e7baf36-c82b-4fd3-9f53-e9b42df92fc6</webElementGuid>
+      <webElementGuid>c033a095-a94e-4af5-999f-b8785274714b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@ Masukan Tanggal HPHT
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kalkulator Kehamilan'])[4]/following::div[1]</value>
-      <webElementGuid>7549506e-0820-42cf-b440-fbd0309379e3</webElementGuid>
+      <webElementGuid>586a24a7-10c9-4e9b-85f2-cf6b91b9b2df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@ Masukan Tanggal HPHT
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MULAI DISINI →'])[1]/preceding::div[1]</value>
-      <webElementGuid>37ef0cc5-dfa6-4059-beda-f967184f6fcb</webElementGuid>
+      <webElementGuid>7471db1f-b969-434a-aaee-65d075423c3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@ Masukan Tanggal HPHT
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div/div/form/div</value>
-      <webElementGuid>d12cd079-c6cc-489f-91a7-0dcf19a00ec6</webElementGuid>
+      <webElementGuid>55078421-2246-4f78-bc16-7045605b343f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@ Masukan Tanggal HPHT
 
 Masukan Tanggal HPHT
 ')]</value>
-      <webElementGuid>de37c139-deb9-439d-bfd4-ef39543ee0d4</webElementGuid>
+      <webElementGuid>6598e9cd-fc33-4659-be79-23a133d5ee20</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -37,19 +37,19 @@ WebUI.click(findTestObject('Homepage/span_Submit Kode Unik'))
 
 WebUI.delay(1)
 
-WebUI.navigateToUrl('https://www.generasimaju.co.id/')
+WebUI.back()
 
 WebUI.click(findTestObject('Homepage/Masuk'))
 
 WebUI.delay(1)
 
-WebUI.navigateToUrl('https://www.generasimaju.co.id/')
+WebUI.back()
 
 WebUI.click(findTestObject('Homepage/Daftar'))
 
 WebUI.delay(1)
 
-WebUI.navigateToUrl('https://www.generasimaju.co.id/')
+WebUI.back()
 
 CurrentUrl = WebUI.getUrl()
 
@@ -61,7 +61,7 @@ WebUI.click(findTestObject('Object Repository/Homepage/img_Previous_first-img-sl
 
 WebUI.delay(3)
 
-WebUI.switchToWindowUrl('https://www.generasimaju.co.id/')
+WebUI.back()
 
 WebUI.click(findTestObject('Homepage/button_Next'))
 
@@ -69,7 +69,7 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Homepage/img_1'))
 
-WebUI.switchToWindowUrl('https://www.generasimaju.co.id/')
+WebUI.back()
 
 WebUI.click(findTestObject('Homepage/button_Next'))
 
@@ -77,7 +77,7 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Homepage/img'))
 
-WebUI.switchToWindowUrl('https://www.generasimaju.co.id/')
+WebUI.back()
 
 WebUI.click(findTestObject('Homepage/button_Next'))
 
@@ -85,23 +85,23 @@ WebUI.click(findTestObject('Object Repository/Homepage/a_Anak'))
 
 WebUI.click(findTestObject('Homepage/a_Baca Selengkapnya'))
 
-WebUI.switchToWindowUrl('https://www.generasimaju.co.id/')
+WebUI.back()
 
 WebUI.click(findTestObject('Homepage/a_Baca Selengkapnya_1'))
 
-WebUI.switchToWindowUrl('https://www.generasimaju.co.id/')
+WebUI.back()
 
 WebUI.click(findTestObject('Object Repository/Homepage/tab homepage Kehamilan Menyusui'))
 
 WebUI.click(findTestObject('Homepage/a_Baca Selengkapnya_1_2_3_4'))
 
-WebUI.switchToWindowUrl('https://www.generasimaju.co.id/')
+WebUI.back()
 
 WebUI.click(findTestObject('Object Repository/Homepage/tab homepage Bayi'))
 
 WebUI.click(findTestObject('Homepage/a_Baca Selengkapnya_1_2_3_4_5_6_7'))
 
-WebUI.switchToWindowUrl('https://www.generasimaju.co.id/')
+WebUI.back()
 
 WebUI.click(findTestObject('Homepage/button_Coba Sekarang'))
 
@@ -113,13 +113,13 @@ WebUI.click(findTestObject('Homepage/btn Hubungi Sekarang'))
 
 WebUI.delay(2)
 
-WebUI.switchToWindowUrl('https://www.generasimaju.co.id/')
+WebUI.back()
 
 WebUI.click(findTestObject('Object Repository/Homepage/Lihat Selengkapnya produk 2'))
 
 WebUI.delay(2)
 
-WebUI.switchToWindowUrl('https://www.generasimaju.co.id/')
+WebUI.back()
 
 WebUI.click(findTestObject('Homepage/img_SAYA SETUJU_button-careline'))
 

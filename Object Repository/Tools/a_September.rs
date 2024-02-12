@@ -6,12 +6,11 @@
    <elementGuidId>853ad1d6-f08b-4357-81e7-24766e6861ed</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='modal-content']/div/div/div[2]/div/a[9]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='modal-content']/div/div/div[2]/div/a[9]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>84e63f1c-fa13-4140-a8a7-405f95aa773d</webElementGuid>
+      <webElementGuid>de6fe993-754b-449c-86ba-01ce1dd9f967</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>04a2b424-8fea-43f9-b47b-6e13f4be145c</webElementGuid>
+      <webElementGuid>96d753b0-1527-4fab-a8c2-903e910c62f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0)</value>
-      <webElementGuid>9563000e-ae05-46a1-8bb2-25824e2fd152</webElementGuid>
+      <webElementGuid>79905597-29cd-4277-a294-04380521ef12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>data-value</name>
       <type>Main</type>
       <value>September</value>
-      <webElementGuid>bf41235d-dbdb-4113-a0cb-30cda8a0b4c0</webElementGuid>
+      <webElementGuid>054d2436-0a35-4132-aa37-e735259ae043</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>September</value>
-      <webElementGuid>a88c7788-5529-4d84-b425-efb1634475fa</webElementGuid>
+      <webElementGuid>abb1a1ff-bd6f-4f06-a1c3-6080c769a0a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;modal-content&quot;)/div[@class=&quot;form-group datepicker_desktop&quot;]/div[@class=&quot;custom_dropdown&quot;]/div[@class=&quot;dropdown birth-month open&quot;]/div[@class=&quot;dropdown-menu&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>196d8974-6cb6-428e-b4c5-6b5be0842afa</webElementGuid>
+      <webElementGuid>c9398777-8f35-4131-b63b-2ba63b0f8864</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-content']/div/div/div[2]/div/a[9]</value>
-      <webElementGuid>c96f5d15-60dd-40cf-b03b-90ab1a527411</webElementGuid>
+      <webElementGuid>414c6803-2187-43d5-bca1-161a47193570</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'September')]</value>
-      <webElementGuid>cdc2cc70-8ab8-44ff-a8a8-ec079e08495b</webElementGuid>
+      <webElementGuid>eb340500-957e-4015-b1c7-edb0a97e2d85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Agustus'])[1]/following::a[1]</value>
-      <webElementGuid>b7c29dcd-924d-4707-a6c8-712071104f89</webElementGuid>
+      <webElementGuid>6656c2bf-e828-4ce1-b9e7-1c15a4a74e11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Juli'])[1]/following::a[2]</value>
-      <webElementGuid>93c35832-cfb8-43fd-9947-a58df832c44b</webElementGuid>
+      <webElementGuid>8d3af677-a004-4bb8-a703-29588bd6b027</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Oktober'])[1]/preceding::a[1]</value>
-      <webElementGuid>7bdec2d6-9d5c-46e3-94b9-535d5fff85df</webElementGuid>
+      <webElementGuid>e11d0c3d-643f-4cab-85f0-373477f49d8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='November'])[1]/preceding::a[2]</value>
-      <webElementGuid>a2c257b2-9007-4ee9-a668-356aa2d63402</webElementGuid>
+      <webElementGuid>ad04ad82-0a27-4d42-ad6a-eb189adfaace</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='September']/parent::*</value>
-      <webElementGuid>bdaa239c-f8d6-4512-bd5e-a2166ad95b4e</webElementGuid>
+      <webElementGuid>d5eeede5-070f-4ddf-a88a-79c78f4fe7ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +125,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0)')])[40]</value>
-      <webElementGuid>deb6cc8c-b235-4e93-83a8-4fc174e4dc42</webElementGuid>
+      <webElementGuid>21005554-f954-494b-a0db-152f4afe1caa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a[9]</value>
-      <webElementGuid>80f7e034-3779-4b8e-9707-79128024ad4f</webElementGuid>
+      <webElementGuid>a13e8abe-f12a-4423-acc1-afe813130679</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0)' and (text() = 'September' or . = 'September')]</value>
-      <webElementGuid>bcab2c2b-11ed-4613-a740-04b1fff9d97f</webElementGuid>
+      <webElementGuid>d1511181-ec56-4e94-bd49-c61ebe8dd7ea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

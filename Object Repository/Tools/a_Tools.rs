@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Pilih Bulan</name>
+   <name>a_Tools</name>
    <tag></tag>
-   <elementGuidId>a2a44599-24f1-460e-9e12-eea416084dd5</elementGuidId>
+   <elementGuidId>3f76474a-e334-4c7f-8d85-0b942ac48267</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#dropMonth</value>
+         <value>#dropdownMenuAgm</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='dropMonth']</value>
+         <value>//a[@id='dropdownMenuAgm']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c0c36257-1025-4297-8827-e3156b16c6bb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-secondary dropdown-toggle</value>
-      <webElementGuid>45003e74-dcd5-45d6-8f2a-9a383910d010</webElementGuid>
+      <webElementGuid>ae306226-f392-4227-85c0-3aa9783ce558</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,23 +30,31 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>9ff864be-2a9d-46f9-8643-63ac4325fc23</webElementGuid>
+      <webElementGuid>a858067e-e678-4b0d-ae97-4cf0f22785a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>target</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>f3914a1c-5b23-4315-a644-2ae77cd0aca2</webElementGuid>
+      <value>_self</value>
+      <webElementGuid>78237716-447c-4fd2-a730-948e5516748c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>dropMonth</value>
-      <webElementGuid>b387dd2d-1cbf-498c-aa0b-2106a5f52978</webElementGuid>
+      <value>dropdownMenuAgm</value>
+      <webElementGuid>5f8cd506-070e-4068-a6c5-e0d2491f3275</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle</value>
+      <webElementGuid>ad2f2502-820c-410c-9489-075cdc2c09a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>2b8c7388-910d-40c2-a662-da59c6336a83</webElementGuid>
+      <webElementGuid>f52aac4d-b72a-43f4-9e1a-992a884a8b1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,15 +70,15 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>1aab9e46-85f6-4629-bd1a-54063fe18ebf</webElementGuid>
+      <webElementGuid>9f8c8248-0862-42e0-b911-26061b90447b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-expanded</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>f9892ce8-21f7-4220-bf8e-ee27570a304f</webElementGuid>
+      <value>true</value>
+      <webElementGuid>154899ce-85ae-439b-8618-b0cae73ad4c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,81 +86,57 @@
       <name>text</name>
       <type>Main</type>
       <value>
-Pilih Bulan
-</value>
-      <webElementGuid>166d2b32-4c0b-4a10-918a-7dbb609da12e</webElementGuid>
+
+Tools</value>
+      <webElementGuid>ab32f200-0ec0-40f3-b3b7-9edf40e38629</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;dropMonth&quot;)</value>
-      <webElementGuid>59258177-1b5f-46aa-afc4-a000571f578b</webElementGuid>
+      <value>/html[@class=&quot;no-js&quot;]/body[1]/nav[@class=&quot;navbar navbar-default navbar-fixed-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;wrap wrap-menu&quot;]/div[@class=&quot;lower-menu&quot;]/div[@class=&quot;desktop-nav hidden-sm hidden-xs&quot;]/ul[@class=&quot;nav navbar-nav nav-justified&quot;]/li[@id=&quot;dropdownAgm&quot;]/a[@id=&quot;dropdownMenuAgm&quot;]</value>
+      <webElementGuid>1bb5c4a5-4037-4ed7-9c33-9f661ba7a4b6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='dropMonth']</value>
-      <webElementGuid>9bd62140-338b-444d-9d79-1290fda40732</webElementGuid>
+      <value>//a[@id='dropdownMenuAgm']</value>
+      <webElementGuid>a8231b77-6f6d-440a-b0f9-cd90d2c2df14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='modal-content']/div/div/div[2]/a</value>
-      <webElementGuid>9451f3b2-ba9b-4651-bb81-59eed601f8d8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Pilih Bulan')]</value>
-      <webElementGuid>f8b3cde4-b3e5-4fe3-a2a8-afdd56927d22</webElementGuid>
+      <value>//li[@id='dropdownAgm']/a</value>
+      <webElementGuid>a4ef4b2c-069b-42b6-8354-33994b7a8bad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulan*'])[1]/following::a[1]</value>
-      <webElementGuid>de29f378-a289-4927-a527-3208dbdfd971</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kalkulator Kehamilan'])[1]/preceding::a[1]</value>
+      <webElementGuid>5140535c-88fa-4b93-a65d-2c160fa368c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal*'])[1]/following::a[33]</value>
-      <webElementGuid>a3ae4150-9547-4c01-ba61-1efb75921f76</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diary Generasi Maju'])[1]/preceding::a[2]</value>
+      <webElementGuid>d28c99d8-9940-4344-aa4e-0da1d733eef5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Januari'])[1]/preceding::a[1]</value>
-      <webElementGuid>6308f181-a698-409f-b005-0814f1c5f497</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Februari'])[1]/preceding::a[2]</value>
-      <webElementGuid>5ff0486b-1611-4b89-9c21-c47745354760</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Pilih Bulan']/parent::*</value>
-      <webElementGuid>0ce42f5e-eccb-4d07-80e8-ad8bb794fa28</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Tools']/parent::*</value>
+      <webElementGuid>e58e5302-83b4-4c98-bd09-b4c55330f932</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -168,26 +144,26 @@ Pilih Bulan
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[6]</value>
-      <webElementGuid>5bfbddc7-a712-43e8-83a5-a4b2d3e11e7c</webElementGuid>
+      <webElementGuid>ca9768ed-e590-4fd6-91cd-b6e607aa965d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/a</value>
-      <webElementGuid>7426212a-2443-418e-a230-ac4586a196eb</webElementGuid>
+      <value>//li[3]/a</value>
+      <webElementGuid>002ef4f9-e605-4044-b150-5cce75031a4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '#' and @id = 'dropMonth' and (text() = '
-Pilih Bulan
-' or . = '
-Pilih Bulan
-')]</value>
-      <webElementGuid>fe2b9946-b0f3-478e-aaae-7fc3bf66313f</webElementGuid>
+      <value>//a[@href = '#' and @id = 'dropdownMenuAgm' and (text() = '
+
+Tools' or . = '
+
+Tools')]</value>
+      <webElementGuid>b1bced47-179d-49a9-b634-c2bef5210a4a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

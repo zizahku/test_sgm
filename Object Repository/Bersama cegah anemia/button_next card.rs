@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_PerkembanganOtak_slick-next-dampak s_734c68 (1)</name>
+   <name>button_next card</name>
    <tag></tag>
    <elementGuidId>7af71323-5943-401a-a22c-ec1af000a269</elementGuidId>
-   <imagePath></imagePath>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button']</value>
-      </entry>
-      <entry>
          <key>IMAGE</key>
-         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>button.slick-next-dampak.slick-arrow</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button']</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[4]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4ba88e67-fe48-449d-8434-702711e8a732</webElementGuid>
+      <webElementGuid>9c98d9e1-5a6b-4d56-af77-c16551a0dcfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slick-next-dampak slick-arrow</value>
-      <webElementGuid>d4b9d0ce-4061-4abe-9365-77063eb1878e</webElementGuid>
+      <webElementGuid>edd57203-2c99-4fa3-ad97-cf37d7e48487</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +45,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>1c8d335b-4257-465c-b423-7ac630af0a64</webElementGuid>
+      <webElementGuid>f66b1711-500f-4f6e-9a0f-d846cfc3c4ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a33c1e00-b53b-4c52-b639-329502c1e982</webElementGuid>
+      <webElementGuid>ee7730f3-11fa-4937-b63c-6bd9c2fa4a99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ironc-dampak&quot;)/div[@class=&quot;container slider&quot;]/div[@class=&quot;row&quot;]/button[@class=&quot;slick-next-dampak slick-arrow&quot;]</value>
-      <webElementGuid>1cfa628b-ddcc-4f7f-a758-ca672b0c4e5a</webElementGuid>
+      <webElementGuid>10d3e608-f822-4cf1-b1c8-ccf809665524</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>9f6c55a7-c33c-4822-b218-26bc170689d4</webElementGuid>
+      <webElementGuid>da8097b5-e846-472b-9c69-cd5d110cb2ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='ironc-dampak']/div[2]/div/button[2]</value>
-      <webElementGuid>cfdf8a11-7e2d-480a-9808-eb19446409f8</webElementGuid>
+      <webElementGuid>da0dea79-b621-4a39-be17-4610c0cc91dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>2a0c43f3-1cbf-4273-a5bf-d940a6b5db9f</webElementGuid>
+      <webElementGuid>510d2b72-62b4-43c7-97b7-663b0fc99a2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +93,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button']</value>
-      <webElementGuid>1edbd6bc-9784-40a3-b044-f8cbd731f8c2</webElementGuid>
+      <webElementGuid>63e29ace-4699-4bb3-bcfd-281ec6136e9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>19426bff-bb32-4176-b58c-81e61a2ebdd7</webElementGuid>
+      <webElementGuid>0dd59029-08e5-4bde-8be4-acf62331932b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='ironc-dampak']/div[2]/div/button</value>
-      <webElementGuid>64365ed0-3be4-49ac-9928-9cd3618f82a5</webElementGuid>
+      <webElementGuid>bf14e129-6d01-4cf2-8502-1f985f60c91f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +117,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>5b6f69d0-71f0-4c87-bd8b-3e90296b4236</webElementGuid>
+      <webElementGuid>5eb0bb50-0350-4db8-8564-d64cbad94e50</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

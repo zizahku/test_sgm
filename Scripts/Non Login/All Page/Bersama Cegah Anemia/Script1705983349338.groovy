@@ -31,11 +31,19 @@ WebUI.click(findTestObject('Bersama cegah anemia/header_Bersama Cegah Anemia'))
 
 WebUI.click(findTestObject('Produk page/input_concat(id(, , __st_bpn_no, , ))_notnow'))
 
+WebUI.click(findTestObject('Bersama cegah anemia/breadcrumb beranda'))
+
+WebUI.back()
+
 WebUI.click(findTestObject('Bersama cegah anemia/anchor Lihat Lebih Lengkap'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Bersama cegah anemia/button_PerkembanganOtak_slick-next-dampak s_734c68 (1)'))
+WebUI.click(findTestObject('Bersama cegah anemia/button_next card'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Bersama cegah anemia/button prev card'))
 
 WebUI.delay(1)
 
@@ -50,4 +58,8 @@ WebUI.delay(1)
 WebUI.click(findTestObject('Bersama cegah anemia/span_prev artikel'))
 
 WebUI.delay(1)
+
+WebUI.click(findTestObject('Bersama cegah anemia/a_Cari Tahu Lebih Lanjut'))
+
+WebUI.back()
 

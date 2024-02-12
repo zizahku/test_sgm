@@ -6,12 +6,12 @@
    <elementGuidId>a9ed126e-69b2-4986-9603-08cc27ab2bcb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='trim1-ot-2']/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#trim1-ot-2 > div.innerBar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='trim1-ot-2']/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>07fd14ed-a95e-4c05-9bf0-be55d685a5ec</webElementGuid>
+      <webElementGuid>c57da769-dc15-4101-9a13-f8f548d001ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>innerBar</value>
-      <webElementGuid>ec58b13c-454c-422f-8118-7d6625a892eb</webElementGuid>
+      <webElementGuid>989d5f48-b871-4769-a2fc-f8c060defb1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;trim1-ot-2&quot;)/div[@class=&quot;innerBar&quot;]</value>
-      <webElementGuid>1b39de32-f8bb-4945-a97e-d682c3a95acc</webElementGuid>
+      <webElementGuid>16e9e8d7-4ea2-48d6-bb75-985212955644</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='trim1-ot-2']/div</value>
-      <webElementGuid>01c2ebd0-5d29-40b1-b1c8-42ecae081704</webElementGuid>
+      <webElementGuid>8ed96d43-9173-4c85-a5d2-d52173e9e8d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div</value>
-      <webElementGuid>63faa19d-eed7-4ba8-95cc-2fc9a134c7e2</webElementGuid>
+      <webElementGuid>bd2e2600-fba3-4125-8c3b-3f6db514fc9d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

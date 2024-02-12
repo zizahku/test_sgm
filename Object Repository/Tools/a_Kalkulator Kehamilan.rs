@@ -6,12 +6,12 @@
    <elementGuidId>35a91939-5207-4ed0-ac3f-e7e8ddc1b091</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='dropdownAgm']/div/ul/li/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.dropdown-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='dropdownAgm']/div/ul/li/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7765bfbd-0968-440b-a38c-16a4bf83e82b</webElementGuid>
+      <webElementGuid>87ed6808-5c80-444d-a5cb-b6c8e0a038dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>347fa8a8-1666-4b0e-ae1d-daa71e682f9d</webElementGuid>
+      <webElementGuid>7c700503-206d-4f20-88d5-88ebf50bd770</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.generasimaju.co.id/tools/kalkulator-kehamilan</value>
-      <webElementGuid>cecde3b0-5a38-4e51-8833-246513af4885</webElementGuid>
+      <webElementGuid>79d72e7b-c4ef-4056-99a6-721fb3d42f8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Kalkulator Kehamilan</value>
-      <webElementGuid>99bf5537-5f8c-4cba-a62e-bd0379ea6bbe</webElementGuid>
+      <webElementGuid>8877c45a-5383-46aa-a1e5-a7cacad5d40a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;no-js&quot;]/body[1]/nav[@class=&quot;navbar navbar-default navbar-fixed-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;wrap wrap-menu&quot;]/div[@class=&quot;lower-menu&quot;]/div[@class=&quot;desktop-nav hidden-sm hidden-xs&quot;]/ul[@class=&quot;nav navbar-nav nav-justified&quot;]/li[@id=&quot;dropdownAgm&quot;]/div[@class=&quot;dropdown-menu&quot;]/ul[@class=&quot;menu-vertical&quot;]/li[1]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>878a1230-33f8-4474-b4d7-61e87ddef976</webElementGuid>
+      <webElementGuid>a19e9eb7-1a14-4e66-939c-8d9acae921ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='dropdownAgm']/div/ul/li/a</value>
-      <webElementGuid>21d4dfef-5280-418d-a6f8-01b0e3a8c7d0</webElementGuid>
+      <webElementGuid>ce429709-824c-4b9b-8054-b3c17e202b1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Kalkulator Kehamilan')]</value>
-      <webElementGuid>a3bd993a-a2f6-456d-9710-a456418fbcb0</webElementGuid>
+      <webElementGuid>93489fa9-72bb-4b2a-84d7-26138601d5da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Diary Generasi Maju'])[1]/preceding::a[1]</value>
-      <webElementGuid>4add7a12-2626-45bd-b59f-727c8db31bbe</webElementGuid>
+      <webElementGuid>3e1aad63-3860-433a-a052-f6b21af97793</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek Risiko Tidak Cocok Susu Sapi'])[1]/preceding::a[2]</value>
-      <webElementGuid>5f53290d-30e2-4977-8976-0663b0d21ea6</webElementGuid>
+      <webElementGuid>88fef8b2-a222-40e0-ba7c-2a7495bee9d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Kalkulator Kehamilan']/parent::*</value>
-      <webElementGuid>ab75c183-f483-4d15-8dd4-6683d3fbf920</webElementGuid>
+      <webElementGuid>31844659-160c-433c-93be-d71234716b43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://www.generasimaju.co.id/tools/kalkulator-kehamilan')]</value>
-      <webElementGuid>51484a62-2cc3-4339-b175-948dfc559b66</webElementGuid>
+      <webElementGuid>547a48a9-7fea-4479-b491-35b1eee16e5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/ul/li/a</value>
-      <webElementGuid>b2d7248c-3fba-40e0-a1e8-03cc8a6d6596</webElementGuid>
+      <webElementGuid>255b0ce2-ef4a-4927-9b67-52b3d5dea199</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.generasimaju.co.id/tools/kalkulator-kehamilan' and (text() = 'Kalkulator Kehamilan' or . = 'Kalkulator Kehamilan')]</value>
-      <webElementGuid>19086f5a-6baf-4564-9422-be2d6a9243f0</webElementGuid>
+      <webElementGuid>65fe4a3b-01ae-4e61-9ce9-7f8b4a5d9217</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

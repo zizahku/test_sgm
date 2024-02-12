@@ -17,3 +17,52 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://www.generasimaju.co.id/')
+
+WebUI.click(findTestObject('Object Repository/Homepage/button_SAYA SETUJU'))
+
+WebUI.click(findTestObject('Tools/a_Tools'))
+
+WebUI.click(findTestObject('Tools/dropdown Diary Generasi Maju'))
+
+WebUI.switchToWindowIndex(1)
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Tools/button card next'))
+
+WebUI.click(findTestObject('Tools/card_Lihat Selengkapnya'))
+
+WebUI.back()
+
+WebUI.delay(3)
+
+//WebUI.executeJavaScript('window.scrollTo(0, 600);', null)
+
+WebUI.click(findTestObject('Tools/button card next'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Tools/card_Lihat Selengkapnya'))
+
+//WebUI.back()
+//
+//WebUI.click(findTestObject('Tools/button card next'))
+//
+//WebUI.delay(1)
+//WebUI.click(findTestObject('Tools/card_Lihat Selengkapnya'))
+//
+//
+//WebUI.back()
+//
+//WebUI.click(findTestObject('Tools/button card next'))
+//
+//WebUI.delay(1)
+//
+//WebUI.click(findTestObject('Tools/card_Lihat Selengkapnya'))
+//
+//WebUI.back()

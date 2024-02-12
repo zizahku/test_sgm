@@ -6,12 +6,12 @@
    <elementGuidId>7e9b7493-11b4-4039-975f-46251008726d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='submit-calc']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#submit-calc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='submit-calc']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>001ced51-eb3c-4ce3-89f3-f5fae194f2b8</webElementGuid>
+      <webElementGuid>1a06d277-2bcf-4497-8c4e-4594df203e0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fa4ee36b-9a60-42ae-bc32-6865e9ad7380</webElementGuid>
+      <webElementGuid>0e7b886b-418c-4981-b326-0ca547768e19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>submit-calc</value>
-      <webElementGuid>52887503-b8ea-4fe9-982b-0bbd09092881</webElementGuid>
+      <webElementGuid>48b12964-82aa-43f0-81c9-109999ca2d70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>setDate()</value>
-      <webElementGuid>86682b23-5e60-447c-b9f1-b52d91576ce3</webElementGuid>
+      <webElementGuid>46b6e88f-e3c0-47cf-a344-643c94541a4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-emboss-red-calc</value>
-      <webElementGuid>9e207758-37b0-420f-bb3b-f6887b915730</webElementGuid>
+      <webElementGuid>7ba06fd4-4fa6-4487-b31f-ddf564e38db1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SIMPAN  →</value>
-      <webElementGuid>a0014f31-a787-415b-8a16-4c85fdbe0c85</webElementGuid>
+      <webElementGuid>ed26b826-6030-42e8-af40-562205fa900c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;modal-content&quot;)/div[@class=&quot;footer-modal&quot;]/button[@id=&quot;submit-calc&quot;]</value>
-      <webElementGuid>4a40a4ae-5df0-4363-b074-ee6fa7457993</webElementGuid>
+      <webElementGuid>7c8f2a83-cc79-4ab2-84b9-e092bf1bb296</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='submit-calc']</value>
-      <webElementGuid>6c2a4e63-7ca9-41f2-93e0-e7a8cd4f37b8</webElementGuid>
+      <webElementGuid>5cbe2cbc-0560-46d8-ab7a-b35f3a5e3039</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-content']/div[2]/button</value>
-      <webElementGuid>6fe20d55-9c2d-4489-81a6-fee8f9b8f2b2</webElementGuid>
+      <webElementGuid>4457a6e0-2472-4f31-bdf0-2e5dc65ea0d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tahun*'])[1]/following::button[1]</value>
-      <webElementGuid>64c264d2-82b3-4a3c-8e93-5f70d13cd1d5</webElementGuid>
+      <webElementGuid>c3eae78d-11cf-40d5-840f-881fda666802</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Desember'])[1]/following::button[1]</value>
-      <webElementGuid>bedc1192-3073-4be5-9a3e-d0f7a2738f09</webElementGuid>
+      <webElementGuid>3d79097e-bb5a-45f8-a633-b335aef9f098</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Tanggal HPHT'])[2]/preceding::button[1]</value>
-      <webElementGuid>3c01836f-9f80-4a1d-a90f-1f642ed0eaeb</webElementGuid>
+      <webElementGuid>e70db0fd-520c-4bc5-89ce-251ec42ba7e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal*'])[2]/preceding::button[1]</value>
-      <webElementGuid>40fee11b-77e1-48be-8226-8c359d3734fe</webElementGuid>
+      <webElementGuid>1ade7489-5c7e-43a2-b68c-0505c4c8d6bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='SIMPAN  →']/parent::*</value>
-      <webElementGuid>e3e03cc2-4a4d-41a9-900f-ff66bb05bc5f</webElementGuid>
+      <webElementGuid>5092361d-2616-40a7-8605-36eaa61c70ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>39574d5a-0ac5-44cc-916e-5a03cc49cb1c</webElementGuid>
+      <webElementGuid>410a0355-aaf0-4e78-b711-693e7f83b617</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'submit-calc' and (text() = 'SIMPAN  →' or . = 'SIMPAN  →')]</value>
-      <webElementGuid>15842d57-e207-4bda-9bef-cda5d560c447</webElementGuid>
+      <webElementGuid>bb5d460f-e183-4c84-a4ad-44719be25316</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

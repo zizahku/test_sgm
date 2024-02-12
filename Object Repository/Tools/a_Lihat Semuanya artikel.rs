@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_15</name>
+   <name>a_Lihat Semuanya artikel</name>
    <tag></tag>
-   <elementGuidId>680e366c-6842-4e96-b445-6e97224a9e61</elementGuidId>
+   <elementGuidId>378ca4e1-d1d2-4e40-8c52-588e9bba99f0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value>div.lihat-semuannya > a</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='modal-content']/div/div/div/div/a[15]</value>
+         <value>//div[@id='dgm-artikel-terkait']/div/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,126 +22,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>aca8ae09-c948-4680-9b79-86a09788b088</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>dropdown-item</value>
-      <webElementGuid>c924a19f-2ce4-4319-9c3b-0a981e1eb7b5</webElementGuid>
+      <webElementGuid>2945dc5d-9c93-4706-9ddb-9f64ff6f7d9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>javascript:void(0)</value>
-      <webElementGuid>958b0b19-20e2-4a83-827a-2e3347f801d2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-value</name>
-      <type>Main</type>
-      <value>15</value>
-      <webElementGuid>0789f1ef-2813-4db6-a8f3-f43d49161c49</webElementGuid>
+      <value>/diary-generasi-maju/resep-mpasi</value>
+      <webElementGuid>cda79061-d28f-4a0e-9564-229940eda499</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>15</value>
-      <webElementGuid>9f16bcd8-5d70-4a5b-9d60-ae838f64b6c5</webElementGuid>
+      <value>Lihat Semuanya</value>
+      <webElementGuid>3d888d53-bc09-4390-baf0-9e0213c75fc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modal-content&quot;)/div[@class=&quot;form-group datepicker_desktop&quot;]/div[@class=&quot;custom_dropdown&quot;]/div[@class=&quot;dropdown birth-date open&quot;]/div[@class=&quot;dropdown-menu&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>ad2454f2-619f-4a68-9a56-36d173ec485f</webElementGuid>
+      <value>id(&quot;dgm-artikel-terkait&quot;)/div[@class=&quot;dgm-artikel-terkait__list-item row&quot;]/div[@class=&quot;lihat-semuannya&quot;]/a[1]</value>
+      <webElementGuid>bcd3ce95-85f4-4183-b9d6-64fd51d7d1c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='modal-content']/div/div/div/div/a[15]</value>
-      <webElementGuid>c569af09-dc49-4d1c-8278-af829749a2e6</webElementGuid>
+      <value>//div[@id='dgm-artikel-terkait']/div/div/a</value>
+      <webElementGuid>73b04504-92ec-40f3-8e57-a72cb6bd5d4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'15')]</value>
-      <webElementGuid>f77f2647-51a0-4d8e-86ca-56418066e718</webElementGuid>
+      <value>//a[contains(text(),'Lihat Semuanya')]</value>
+      <webElementGuid>0df1772e-0261-4757-b007-6ce9f6482549</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal*'])[1]/following::a[16]</value>
-      <webElementGuid>d0f6e61e-7d19-43a3-adc8-9f99912c9efa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baca Selengkapnya'])[3]/following::a[1]</value>
+      <webElementGuid>8210428f-5619-4173-ad9c-66ca8414b623</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Tanggal HPHT'])[1]/following::a[16]</value>
-      <webElementGuid>a15969b2-205e-463b-b378-3fdfc6a2aede</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resep Bubur Labu Susu Kedelai'])[1]/following::a[1]</value>
+      <webElementGuid>dd12db96-a462-4f9a-bfb9-746303485144</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulan*'])[1]/preceding::a[17]</value>
-      <webElementGuid>707dfe7d-ecef-4ebe-8eda-e204b2628c6c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ASI TERBAIK BAGI BAYI'])[1]/preceding::a[2]</value>
+      <webElementGuid>57719fe5-9fb3-4137-9087-249ece0ea8f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Januari'])[1]/preceding::a[18]</value>
-      <webElementGuid>61dd8e1e-db68-4466-8eb9-74d0d178b321</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/preceding::a[3]</value>
+      <webElementGuid>53d9a466-3e4f-4cdf-9bca-5cfa504abba6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='15']/parent::*</value>
-      <webElementGuid>cd768d76-0322-4d01-995c-ad4b1a20100b</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Lihat Semuanya']/parent::*</value>
+      <webElementGuid>1839ecb5-9c73-4c05-a53f-ce817d6dbd46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, 'javascript:void(0)')])[15]</value>
-      <webElementGuid>5de5c2d0-cb27-4783-9083-80444dcdcb4f</webElementGuid>
+      <value>(//a[contains(@href, '/diary-generasi-maju/resep-mpasi')])[4]</value>
+      <webElementGuid>aa75b461-e470-4bf7-89d0-c2f5248782f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a[15]</value>
-      <webElementGuid>1ddf6e0e-7d3b-4308-bd52-88b8d7ff5280</webElementGuid>
+      <value>//section[2]/div/div/div/a</value>
+      <webElementGuid>b7fb3894-14fa-46e3-9c2d-90650ed5e3e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'javascript:void(0)' and (text() = '15' or . = '15')]</value>
-      <webElementGuid>b3506d2b-7a66-4b32-b187-2ea3c7632b69</webElementGuid>
+      <value>//a[@href = '/diary-generasi-maju/resep-mpasi' and (text() = 'Lihat Semuanya' or . = 'Lihat Semuanya')]</value>
+      <webElementGuid>c4f0693a-7012-4eee-9353-213954a6b51b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

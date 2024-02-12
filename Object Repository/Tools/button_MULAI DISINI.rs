@@ -6,12 +6,12 @@
    <elementGuidId>2768342b-ba7f-4121-b5bf-1f6a70bf88b9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='btn-mulai']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#btn-mulai</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn-mulai']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c191c040-0e07-4752-8b54-0d314dbf6de6</webElementGuid>
+      <webElementGuid>53db6ffe-8eea-476a-8052-84fe97dfb0dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>081bfcbc-23d8-43cd-b63e-8cea4dcb2333</webElementGuid>
+      <webElementGuid>ee186edc-ac66-4302-b7d6-6f34194d49a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-emboss-red</value>
-      <webElementGuid>66ff635c-2f41-4298-b23c-34b4b87fdae7</webElementGuid>
+      <webElementGuid>82ec9acb-2c90-45b2-b1ff-f100c110febd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-mulai</value>
-      <webElementGuid>f75ede82-469a-4f46-9d7e-0ae2d81d4c23</webElementGuid>
+      <webElementGuid>7b50f94e-a876-4cd7-92ad-f5ea22c39787</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>MULAI DISINI →</value>
-      <webElementGuid>e24d8b9e-4aac-450d-9c0a-afd1deeb9c86</webElementGuid>
+      <webElementGuid>25add584-a6a0-4af5-b32f-9c47e8dbbb14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-mulai&quot;)</value>
-      <webElementGuid>d9c0b5e0-6d12-49b8-b8b4-687b22e85534</webElementGuid>
+      <webElementGuid>6c549a90-a5f1-453c-ae8d-342d7826a590</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btn-mulai']</value>
-      <webElementGuid>a2cc4a7d-6976-48cf-9c49-debb38f9a12c</webElementGuid>
+      <webElementGuid>c837c26f-5b6d-42d9-bd3a-8d109ebeec9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='kalkulator-kehamilan']/div/div/form/button</value>
-      <webElementGuid>4cf2ebb5-e380-40dd-bc04-e640ad594903</webElementGuid>
+      <webElementGuid>35431cee-28e6-4eaa-baca-d5ab4eee119e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hari Pertama Haid Terakhir (HPHT)*'])[1]/following::button[1]</value>
-      <webElementGuid>ecaf24a9-e517-4000-999b-6f038bd7f25a</webElementGuid>
+      <webElementGuid>062b411d-b562-488a-bb20-b6d6ba43ae38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kalkulator Kehamilan'])[4]/following::button[1]</value>
-      <webElementGuid>5ab62aeb-1d85-4c37-a15c-d9b91363c2ce</webElementGuid>
+      <webElementGuid>ccd6cf40-394e-456d-a30b-01f679ba8706</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::button[1]</value>
-      <webElementGuid>60ccca22-bc2d-43ae-ba66-11f2ec47bda7</webElementGuid>
+      <webElementGuid>7d45c5bb-bd1d-4444-bc70-4557104e323a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Tanggal HPHT'])[1]/preceding::button[1]</value>
-      <webElementGuid>89ca64f2-6f1f-4a15-a48e-bb0d77b752c3</webElementGuid>
+      <webElementGuid>0b62bfb3-a097-4479-9347-77a5725426d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='MULAI DISINI →']/parent::*</value>
-      <webElementGuid>c447a736-8df1-48f8-9980-3e4b2a77f3fc</webElementGuid>
+      <webElementGuid>9f1ba396-5f44-4456-9da2-a95aebef9dd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/button</value>
-      <webElementGuid>c6235a98-d5da-49b1-a485-0d717ccdc850</webElementGuid>
+      <webElementGuid>2445116c-3597-4b8b-94bd-11856ed44e0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @id = 'btn-mulai' and (text() = 'MULAI DISINI →' or . = 'MULAI DISINI →')]</value>
-      <webElementGuid>f8ce0d0d-2222-4fea-99cb-050ccdb836b0</webElementGuid>
+      <webElementGuid>ce78eff4-cb87-419f-90b3-16e3d13b6389</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

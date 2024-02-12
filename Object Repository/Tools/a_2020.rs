@@ -6,12 +6,11 @@
    <elementGuidId>8d2bed9d-0bae-4979-a1d4-41a68975fe2e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='modal-content']/div/div/div[3]/div/a[2]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='modal-content']/div/div/div[3]/div/a[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ea3eefc7-e78e-41ca-acae-5896987c8189</webElementGuid>
+      <webElementGuid>bbfa074b-53f6-47fd-aba7-23b6bd145e81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>853d2e8a-0870-477c-91eb-1e586b0eb570</webElementGuid>
+      <webElementGuid>831bb22b-b074-4aec-bab8-83f37060ef95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0)</value>
-      <webElementGuid>8de12aa8-b9d3-4b60-b1a7-61c5aafb1b78</webElementGuid>
+      <webElementGuid>223c542a-0f31-41b0-aaaf-2e55f17bab31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>data-value</name>
       <type>Main</type>
       <value>2020</value>
-      <webElementGuid>7b137ded-c0ca-41c2-9137-4c14c3183be3</webElementGuid>
+      <webElementGuid>255e5936-38fb-48d0-a189-824a8b43f03b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>2020</value>
-      <webElementGuid>9c4b1020-2ac8-42a8-895e-a7ddbc63d175</webElementGuid>
+      <webElementGuid>ca3f7e64-f4d3-4dd1-9b4f-2c37bdec14ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;modal-content&quot;)/div[@class=&quot;form-group datepicker_desktop&quot;]/div[@class=&quot;custom_dropdown&quot;]/div[@class=&quot;dropdown birth-year open&quot;]/div[@class=&quot;dropdown-menu&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>4fdf3f10-384f-48a3-b24f-6286a08ee113</webElementGuid>
+      <webElementGuid>b06004bb-7e5c-4de0-ba26-c745c3be167d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-content']/div/div/div[3]/div/a[2]</value>
-      <webElementGuid>ae366e72-2e28-484f-8f5b-130a2e040cca</webElementGuid>
+      <webElementGuid>ab187b97-967c-4c17-b38a-02f2d748631c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'2020')]</value>
-      <webElementGuid>583a4c9c-e9fe-4b92-a54f-a07265fd2005</webElementGuid>
+      <webElementGuid>8f8091ba-761a-460d-8f7b-6ce87e31c86b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tahun*'])[1]/following::a[3]</value>
-      <webElementGuid>4ba22475-e16c-4e05-ae76-0c2073c2f41c</webElementGuid>
+      <webElementGuid>6ecf948f-bc78-4a20-83da-0a3e3510c49c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Desember'])[1]/following::a[3]</value>
-      <webElementGuid>15cba615-fd0b-46d2-b8f8-5e4f127e3e23</webElementGuid>
+      <webElementGuid>ebfdd002-d6a7-41f4-9734-8418786a3599</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SIMPAN  →'])[1]/preceding::a[11]</value>
-      <webElementGuid>642bbd75-3f83-4eac-aa08-419a1e9aa37d</webElementGuid>
+      <webElementGuid>7ac68f6c-e03d-4844-b06d-631e10cc4b85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Tanggal HPHT'])[2]/preceding::a[11]</value>
-      <webElementGuid>93c25831-8740-4e23-9127-dd66175ae4e9</webElementGuid>
+      <webElementGuid>451fc422-f4ef-47a4-9410-c1fb6af09b34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='2020']/parent::*</value>
-      <webElementGuid>81d28475-0407-428b-ad16-2afc045e8219</webElementGuid>
+      <webElementGuid>aa873835-78c1-4ae1-9d62-363c7b3c0a84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +125,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0)')])[45]</value>
-      <webElementGuid>4e6a16bd-88d8-47c4-9c3a-47b48b8cf5ba</webElementGuid>
+      <webElementGuid>6ff397c0-2057-470b-bff5-8f745a547ba9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/a[2]</value>
-      <webElementGuid>9ff4cdea-56f8-4586-b0d4-5a5eea399a00</webElementGuid>
+      <webElementGuid>172274a4-868b-4b3c-9eb0-6e16aad3f560</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0)' and (text() = '2020' or . = '2020')]</value>
-      <webElementGuid>92af6c86-8f7d-42dd-86b4-0b43b8920585</webElementGuid>
+      <webElementGuid>d6589251-2e41-4d8f-965f-bd71f9d59458</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

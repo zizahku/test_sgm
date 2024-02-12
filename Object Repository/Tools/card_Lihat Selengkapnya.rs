@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_</name>
+   <name>card_Lihat Selengkapnya</name>
    <tag></tag>
-   <elementGuidId>01ef8f5a-fb17-4d96-abf5-4d315d72dfd7</elementGuidId>
+   <elementGuidId>50ba6414-587f-4898-9985-e7889cb7f789</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='paginationListArticle']/ul/li[7]/a</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>ul.pagination > li:nth-of-type(7) > a</value>
+         <value>#slick-slide00 > div.content > div.content-btn-detail > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slick-slide00']/div/div[4]/a</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>IMAGE</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -25,100 +22,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2bdbcac7-b850-4708-98a9-d7c5bf47ca4b</webElementGuid>
+      <webElementGuid>97b4500a-dfb0-4c79-9bff-880ae00afae2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>javascript:void(0);</value>
-      <webElementGuid>1bd39af6-f2be-4318-9f77-05162172229b</webElementGuid>
+      <value>/diary-generasi-maju/resep-mpasi</value>
+      <webElementGuid>f4ae9d37-1f81-469b-8c7c-215f8bc2a2c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
+      <name>tabindex</name>
       <type>Main</type>
-      <value>Next</value>
-      <webElementGuid>82c68754-823b-47b6-a493-5ce178ef6855</webElementGuid>
+      <value>0</value>
+      <webElementGuid>1c24e2c5-3084-4b58-a6ff-d25f060a82ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                »
-                </value>
-      <webElementGuid>e1b4056e-ed44-4e46-ac39-8ab03e6aa064</webElementGuid>
+      <value>Lihat Selengkapnya</value>
+      <webElementGuid>a2ed6c8a-db3d-4aeb-872d-a6c930d79df3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;paginationListArticle&quot;)/ul[@class=&quot;pagination&quot;]/li[7]/a[1]</value>
-      <webElementGuid>df69dec4-426b-4a3c-88b4-0bda1e49c12c</webElementGuid>
+      <value>id(&quot;slick-slide00&quot;)/div[@class=&quot;content&quot;]/div[@class=&quot;content-btn-detail&quot;]/a[1]</value>
+      <webElementGuid>e83ca439-d31b-4e44-994e-df7f62968c0d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='paginationListArticle']/ul/li[7]/a</value>
-      <webElementGuid>02f711ab-b0e1-4e26-9fda-2b8ec2610d94</webElementGuid>
+      <value>//div[@id='slick-slide00']/div/div[4]/a</value>
+      <webElementGuid>b2ed6e41-df06-4abd-b6ea-0de5250734d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Lihat Selengkapnya')])[5]</value>
+      <webElementGuid>9298d2af-ecb3-492d-b279-837e4b6d9739</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baca Sekarang >'])[5]/following::a[7]</value>
-      <webElementGuid>c5485a77-2a67-4b1a-86e2-f0fa2f64061c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Selengkapnya'])[4]/following::a[1]</value>
+      <webElementGuid>3222f8fd-518a-491c-a7a4-e2f653d941a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrisi &amp; Makanan'])[3]/following::a[7]</value>
-      <webElementGuid>c95a9d2d-fd42-4b9b-841d-bea171b50148</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anemia'])[4]/preceding::a[1]</value>
-      <webElementGuid>e8af95a6-e93d-483f-abf7-13b7f5d3b0bf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Selengkapnya'])[6]/preceding::a[1]</value>
+      <webElementGuid>f63850f2-65e3-41e6-a3fb-011c6772941b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, 'javascript:void(0);')])[7]</value>
-      <webElementGuid>1b1bfd5b-805f-4d83-94e0-c0aafa84fc94</webElementGuid>
+      <value>(//a[contains(@href, '/diary-generasi-maju/resep-mpasi')])[2]</value>
+      <webElementGuid>126affb3-6590-4b9a-acbf-4669b680b33a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div[2]/ul/li[7]/a</value>
-      <webElementGuid>bf05b0be-a9ed-4842-9efb-17ac2c667564</webElementGuid>
+      <value>//div[5]/div/div[4]/a</value>
+      <webElementGuid>a9d1413f-f228-451c-80ff-659fee6befb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'javascript:void(0);' and (text() = '
-                »
-                ' or . = '
-                »
-                ')]</value>
-      <webElementGuid>3a77698b-f546-4827-9937-642957bad1e1</webElementGuid>
+      <value>//a[@href = '/diary-generasi-maju/resep-mpasi' and (text() = 'Lihat Selengkapnya' or . = 'Lihat Selengkapnya')]</value>
+      <webElementGuid>388676f4-5a38-4f8c-99e0-1cb8e7da8447</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

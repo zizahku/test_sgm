@@ -7,10 +7,6 @@
    <imagePath></imagePath>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//section[@id='ironc-description']/div/div/div/div/ol/li/a</value>
-      </entry>
-      <entry>
          <key>IMAGE</key>
          <value></value>
       </entry>
@@ -18,8 +14,12 @@
          <key>CSS</key>
          <value>div.breadcrumb > ol.breadcrumb > li.active > a</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='ironc-description']/div/div/div/div/ol/li/a</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>IMAGE</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -27,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>45db4166-2f07-41bb-be68-4d004d385d47</webElementGuid>
+      <webElementGuid>3a5e7b58-a850-462d-a55a-6f7b535b4900</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -35,7 +35,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/</value>
-      <webElementGuid>53eb040f-8298-43af-a979-8810ee5f5e62</webElementGuid>
+      <webElementGuid>37bb2cfc-8881-43b1-9819-20187ea7921a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,7 +43,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Beranda</value>
-      <webElementGuid>ca726757-5878-427b-9945-44e108e3ade4</webElementGuid>
+      <webElementGuid>e4875dc2-e79f-4883-85f1-8191cee90581</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +51,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ironc-description&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;breadcrumb&quot;]/ol[@class=&quot;breadcrumb&quot;]/li[@class=&quot;active&quot;]/a[1]</value>
-      <webElementGuid>34ac8279-d064-4a6c-9e4d-0aa7680aced8</webElementGuid>
+      <webElementGuid>da054541-562b-4d94-9b0a-7666d2fb087d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -59,7 +59,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='ironc-description']/div/div/div/div/ol/li/a</value>
-      <webElementGuid>deae1014-f330-4adb-bc8c-7eae8e08c4e2</webElementGuid>
+      <webElementGuid>92c69e5c-322c-400c-addd-3de847ac34db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Beranda')])[2]</value>
-      <webElementGuid>9eef2a94-0e17-4441-ae3d-4e52a0f375c9</webElementGuid>
+      <webElementGuid>40b8956e-c2be-4cd9-b024-41868b5b3f36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IronC untuk Maju'])[1]/following::a[2]</value>
-      <webElementGuid>af02ea93-4053-40b2-844c-525c716024cd</webElementGuid>
+      <webElementGuid>4a743241-b617-44e9-acc9-1a42c96124af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[1]/following::a[2]</value>
-      <webElementGuid>5257ffbd-1cbf-457f-b143-b90abdfa2422</webElementGuid>
+      <webElementGuid>af504e4a-c6a6-4f03-87b1-291ce5ac405a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bersama Cegah Anemia'])[1]/preceding::a[1]</value>
-      <webElementGuid>70cb3b9b-f5f1-42d7-befd-16569c63e4a3</webElementGuid>
+      <webElementGuid>f7417d05-f177-4fdf-8ebd-1e314bdc790c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/')])[28]</value>
-      <webElementGuid>e264912d-63bd-41fe-8b78-cd909c8fbedd</webElementGuid>
+      <webElementGuid>6400bf20-b5dc-44ac-b5fb-a3aac3a5e71f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/ol/li/a</value>
-      <webElementGuid>cf015918-79b0-4e57-8111-a7f914f8fe99</webElementGuid>
+      <webElementGuid>67b18e31-a6d4-4bc4-b1a5-a5f1d6b0b629</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,6 +115,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/' and (text() = 'Beranda' or . = 'Beranda')]</value>
-      <webElementGuid>f4df58be-4047-4f49-9d8a-75c755ca9d4b</webElementGuid>
+      <webElementGuid>c97187ba-908b-4122-bd04-b408a65a5971</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

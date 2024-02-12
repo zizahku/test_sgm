@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button prev card</name>
+   <name>button card next</name>
    <tag></tag>
-   <elementGuidId>e60ace34-7a4a-4d31-81dd-bee1620121c9</elementGuidId>
+   <elementGuidId>7fe1a9f4-0658-428a-bcf4-327a1197ff5a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>IMAGE</key>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>button.slick-prev-dampak.slick-arrow</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button']</value>
+         <value>button.slick-next-new.slick-arrow</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
+         <value>(//button[@type='button'])[7]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>481ee581-b786-4b7f-9eda-774dd163de14</webElementGuid>
+      <webElementGuid>b3efff4b-b013-424e-8e94-09e8cbd4c32a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>slick-prev-dampak slick-arrow</value>
-      <webElementGuid>d10ba8be-b6b5-49b5-86b1-2ebcb7099a67</webElementGuid>
+      <value>slick-next-new slick-arrow</value>
+      <webElementGuid>fb7911cb-559a-4f7d-8ccc-9b4b387b9577</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>Previous</value>
-      <webElementGuid>9436eb39-0234-4c26-9d7d-281fcaa4183b</webElementGuid>
+      <value>Next</value>
+      <webElementGuid>b5000351-2788-4dcf-bae2-7d1021503794</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,39 +46,39 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>865f0ee2-262a-459f-807b-97b24faa8b6a</webElementGuid>
+      <webElementGuid>dcc699cb-2bf2-4a4c-9ed4-668b3213b9c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ironc-dampak&quot;)/div[@class=&quot;container slider&quot;]/div[@class=&quot;row&quot;]/button[@class=&quot;slick-prev-dampak slick-arrow&quot;]</value>
-      <webElementGuid>93e82316-4f29-4292-9415-4150dec1adcf</webElementGuid>
+      <value>id(&quot;diary-generasi-maju&quot;)/div[@class=&quot;pimcore_area_fitur-tumbuh-kembang pimcore_area_content&quot;]/div[@class=&quot;fitur-tumbuh-kembang&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;content-fitur&quot;]/div[@class=&quot;row&quot;]/button[@class=&quot;slick-next-new slick-arrow&quot;]</value>
+      <webElementGuid>7188d0a7-f1ab-480a-b75e-b97a207e6b77</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>fb547536-71df-44c3-b77a-19e7637a51d4</webElementGuid>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>7f21fc60-3db1-4bc7-86f8-6a69f96e29fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='ironc-dampak']/div[2]/div/button</value>
-      <webElementGuid>33bf4d09-a51f-4576-9b1c-8787b78753d6</webElementGuid>
+      <value>//main[@id='diary-generasi-maju']/div[2]/div/div/section[2]/div/button[2]</value>
+      <webElementGuid>8a94b02d-ece9-4468-a865-8b57659f4655</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/button</value>
-      <webElementGuid>95b92a91-e0c6-483d-932b-6ee53e062f93</webElementGuid>
+      <value>//button[2]</value>
+      <webElementGuid>7061e7bc-91b6-46ae-8cff-70bb35e954be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button']</value>
-      <webElementGuid>bb7ccca3-d872-4153-9599-3116a81f037d</webElementGuid>
+      <webElementGuid>6afe7a21-ceae-4234-a916-9fdfd72a9692</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

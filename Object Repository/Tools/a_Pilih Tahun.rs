@@ -6,12 +6,12 @@
    <elementGuidId>c581dadd-b83d-4dd4-a56e-44ad04d36a27</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='dropYear']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#dropYear</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='dropYear']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0b858b39-f938-41a6-8f6d-33db7c5773a2</webElementGuid>
+      <webElementGuid>dbb96b7a-abdc-4eb9-8424-6454732f0012</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-secondary dropdown-toggle</value>
-      <webElementGuid>1d018d0f-1912-4748-b37d-3116214cd742</webElementGuid>
+      <webElementGuid>431ca8fc-90e9-4d91-b15a-4251142fe0fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>9c644e56-5d48-4e4d-9989-6a9ea0d7e3e7</webElementGuid>
+      <webElementGuid>322773ca-4fc4-43d6-9ffe-5bbe77920ab4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d75e99ac-c898-4e34-923f-54bd7dbd625f</webElementGuid>
+      <webElementGuid>f245f3e4-bd7f-4ea7-ac17-4871e55f3b14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>dropYear</value>
-      <webElementGuid>67838520-40c1-4767-a474-6f423c136501</webElementGuid>
+      <webElementGuid>646fa707-72dd-4e24-a5b5-1868f5d2bd64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>775b6090-3e12-4336-bc22-456ccdb78ad9</webElementGuid>
+      <webElementGuid>288ce2fc-2a1f-4a18-95bb-d058ae62cf55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>9c41dd26-d84f-47b4-9d5b-452d8e379698</webElementGuid>
+      <webElementGuid>ca810010-7f40-430c-b38c-dca7e949154a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>19ab3fe2-e44f-406b-9a70-dd4e97d6fa1f</webElementGuid>
+      <webElementGuid>5fb653ac-b573-4756-aec8-c4927acac9bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -88,7 +88,7 @@
       <value>
 Pilih Tahun
 </value>
-      <webElementGuid>a91900ea-15e1-4160-ae8b-9a1c0c844e40</webElementGuid>
+      <webElementGuid>978b1283-d69a-48a8-b3ce-006fd411b880</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@ Pilih Tahun
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dropYear&quot;)</value>
-      <webElementGuid>072fde8e-abe0-4b19-9f99-47b2a85e8fb5</webElementGuid>
+      <webElementGuid>0a30d757-2ca0-4b91-8386-426b389184d8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -104,7 +104,7 @@ Pilih Tahun
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='dropYear']</value>
-      <webElementGuid>4dcd6bbb-2522-4e58-ba9a-36ac46fbc41d</webElementGuid>
+      <webElementGuid>61d5cdab-fd37-4f2d-9bb9-dd9d792e8047</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@ Pilih Tahun
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-content']/div/div/div[3]/a</value>
-      <webElementGuid>545c0f95-d3e7-4982-be6b-50e8e10c8325</webElementGuid>
+      <webElementGuid>aa7f2090-1f65-41b4-9e2e-422959805c95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@ Pilih Tahun
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Pilih Tahun')]</value>
-      <webElementGuid>ad3a3652-41e7-47ca-b9b0-20fdc6a548c4</webElementGuid>
+      <webElementGuid>1ab4515a-d14a-4837-8d2c-a7f2dcebdc43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@ Pilih Tahun
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tahun*'])[1]/following::a[1]</value>
-      <webElementGuid>01ef2ec0-6614-4296-8d5a-2e8784aebfc9</webElementGuid>
+      <webElementGuid>eddf07de-7a0e-4e12-877d-e6a3946907e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +136,7 @@ Pilih Tahun
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Desember'])[1]/following::a[1]</value>
-      <webElementGuid>f3bdd737-6733-4577-8325-48836a77e103</webElementGuid>
+      <webElementGuid>eca996b6-bfec-492d-82e6-d52e55e5592b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -144,7 +144,7 @@ Pilih Tahun
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SIMPAN  →'])[1]/preceding::a[13]</value>
-      <webElementGuid>f87cc3a0-c0f6-457f-9ade-ac0a564d2465</webElementGuid>
+      <webElementGuid>a3880560-2c47-4394-a1ef-eae33a91f314</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -152,7 +152,7 @@ Pilih Tahun
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Tanggal HPHT'])[2]/preceding::a[13]</value>
-      <webElementGuid>7c17b70c-0a7d-4934-b036-b8fff00a9dc1</webElementGuid>
+      <webElementGuid>950090dc-4ab4-4829-9783-04559f6bd614</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -160,7 +160,7 @@ Pilih Tahun
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Pilih Tahun']/parent::*</value>
-      <webElementGuid>a709e438-d50b-448c-add9-62b485f20f69</webElementGuid>
+      <webElementGuid>ed8ab4e9-504d-4bff-8ee2-01d40bd1f76d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -168,7 +168,7 @@ Pilih Tahun
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[7]</value>
-      <webElementGuid>3f74b9fe-819f-4ac2-b346-c240b022b3a9</webElementGuid>
+      <webElementGuid>8d6ff5e5-4ded-4156-976f-bcb99d8c015e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -176,7 +176,7 @@ Pilih Tahun
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[3]/a</value>
-      <webElementGuid>984f0f18-fdf5-43f8-9278-eaba8c6baa36</webElementGuid>
+      <webElementGuid>9e69898e-aa85-476f-a444-8a66c8553ef3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -188,6 +188,6 @@ Pilih Tahun
 ' or . = '
 Pilih Tahun
 ')]</value>
-      <webElementGuid>38f609e8-c8c2-4434-9834-f0ecad078a5c</webElementGuid>
+      <webElementGuid>54e05b08-5304-48c2-b671-c4641aa91f06</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

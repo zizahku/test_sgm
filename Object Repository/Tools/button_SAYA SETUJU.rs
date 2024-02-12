@@ -6,12 +6,12 @@
    <elementGuidId>7aa5412b-3569-4fa5-9fd4-9bf7d379be0c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@onclick='return countCookies();']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-high-red.btn-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='return countCookies();']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>26910763-40a0-41b3-a813-c41efdedb426</webElementGuid>
+      <webElementGuid>88f82fa0-50c5-42e4-95f3-295a32d464ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-high-red btn-md</value>
-      <webElementGuid>9c83262d-36b2-4a61-8fa4-e779751eff00</webElementGuid>
+      <webElementGuid>10193f1a-8fa8-48de-b928-53bee5225ee1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>return countCookies();</value>
-      <webElementGuid>99935df8-059a-4911-9d88-9f29105ab747</webElementGuid>
+      <webElementGuid>634f4517-41d3-400a-94c9-db364ba77f65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SAYA SETUJU</value>
-      <webElementGuid>b12ef80f-11d5-4afc-af28-fa09582e1858</webElementGuid>
+      <webElementGuid>0630350c-2b9b-47f2-87c4-68591e08696e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cookiesAcceptanceWrapper&quot;)/div[@class=&quot;row wrapper-content&quot;]/div[@class=&quot;col-md-4 wrapper-content__action hidden-xs&quot;]/button[@class=&quot;btn btn-high-red btn-md&quot;]</value>
-      <webElementGuid>389dabad-e765-41a2-a3c8-c0518489f4da</webElementGuid>
+      <webElementGuid>b725630f-ec33-4c5b-95a0-1df6c5bd3a76</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@onclick='return countCookies();']</value>
-      <webElementGuid>b5d54a11-b98f-4577-85f5-2ec907af2a5f</webElementGuid>
+      <webElementGuid>5851f7fa-ac12-4132-89ea-4d476bff7f42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cookiesAcceptanceWrapper']/div/div[2]/button</value>
-      <webElementGuid>4ad2da9b-1dbf-4f60-a45e-63227f318d37</webElementGuid>
+      <webElementGuid>7a58468a-10d3-40b8-aad7-a92126dab89d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SAYA SETUJU'])[1]/following::button[1]</value>
-      <webElementGuid>44eec5bf-66f3-46d5-a9c8-c4ee698bc608</webElementGuid>
+      <webElementGuid>8c2fcb0c-46da-4c13-9f8e-1f186127e863</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari lebih lanjut'])[1]/following::button[2]</value>
-      <webElementGuid>840b02f8-9418-4ed4-b8ea-9f132b6c76dd</webElementGuid>
+      <webElementGuid>5fa5541e-80df-43d9-980c-b591d5da8f6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Whatsapp'])[1]/preceding::button[1]</value>
-      <webElementGuid>6f6fa3fc-536a-4e75-9a3d-eaecf840e753</webElementGuid>
+      <webElementGuid>6d50dcf7-78e3-466b-90d2-e63535e3e52f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/div[2]/button</value>
-      <webElementGuid>8bbd584e-bd59-4bf1-955e-9561f9a3dd73</webElementGuid>
+      <webElementGuid>3af095d5-14bb-426d-b88d-63c701ddfb3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'SAYA SETUJU' or . = 'SAYA SETUJU')]</value>
-      <webElementGuid>9f9f93ef-f171-4c43-a4f4-0106e0861927</webElementGuid>
+      <webElementGuid>0fb2139d-5c04-4ed4-b582-5f43bdbd0733</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

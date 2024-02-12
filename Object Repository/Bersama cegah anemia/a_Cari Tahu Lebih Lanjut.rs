@@ -7,10 +7,6 @@
    <imagePath></imagePath>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//section[@id='ironc-pencegahan']/div/div[2]/div[2]/div/a</value>
-      </entry>
-      <entry>
          <key>IMAGE</key>
          <value></value>
       </entry>
@@ -18,8 +14,12 @@
          <key>CSS</key>
          <value>div.title-cta > a.btn</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='ironc-pencegahan']/div/div[2]/div[2]/div/a</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>IMAGE</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -27,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>70ecb602-896f-4c9b-be56-1eddada2a3a5</webElementGuid>
+      <webElementGuid>8d0a6f75-03f5-4941-b792-12a520405ee1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -35,7 +35,7 @@
       <name>href</name>
       <type>Main</type>
       <value>produk/sgm-eksplor-3-plus</value>
-      <webElementGuid>88a46b66-8f89-4d87-afd7-d57277a353e7</webElementGuid>
+      <webElementGuid>0f5bcb7d-863a-4f4d-a856-57ddaede6735</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn</value>
-      <webElementGuid>dbd6d44e-df14-4f7c-a30e-83f1d08c9e6f</webElementGuid>
+      <webElementGuid>ba98d896-63d3-4020-8e4c-342fa7b612dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -51,7 +51,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cari Tahu Lebih Lanjut</value>
-      <webElementGuid>2ed3dc1f-1f45-4d60-b085-1962dbb45649</webElementGuid>
+      <webElementGuid>409a09de-bbd4-4ce4-b858-86d5464f8e74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +59,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ironc-pencegahan&quot;)/div[@class=&quot;content-container&quot;]/div[@class=&quot;right&quot;]/div[@class=&quot;cta-ironc-pencegahan&quot;]/div[@class=&quot;title-cta&quot;]/a[@class=&quot;btn&quot;]</value>
-      <webElementGuid>851a34f3-861a-4646-8a58-70a86202d874</webElementGuid>
+      <webElementGuid>0b313ffa-d49e-4311-9324-281581b9bd60</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -67,7 +67,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='ironc-pencegahan']/div/div[2]/div[2]/div/a</value>
-      <webElementGuid>14f7e1df-1e7d-47d3-8f41-ce3fe8c99b7d</webElementGuid>
+      <webElementGuid>fa80b48f-7181-4334-8979-efc08cbc027c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Cari Tahu Lebih Lanjut')]</value>
-      <webElementGuid>2920b85c-deb6-4a62-9bd7-2c35a85ee8fd</webElementGuid>
+      <webElementGuid>15c92724-c85a-48e5-9855-b428ec49367a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Anemia'])[4]/following::a[1]</value>
-      <webElementGuid>27b69066-e92c-4aa9-92ce-6fcbfb1d734d</webElementGuid>
+      <webElementGuid>0ddc60bb-e9c7-4bab-ae3b-cca3d76a1561</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/preceding::a[1]</value>
-      <webElementGuid>824f9011-bbb7-4eb3-93c5-8e55ae90f0b4</webElementGuid>
+      <webElementGuid>818498f5-8b9d-40c2-b563-1a38e8e225c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat &amp; Ketentuan'])[1]/preceding::a[2]</value>
-      <webElementGuid>474f081d-d172-4e2c-a427-e3d8bae0ab77</webElementGuid>
+      <webElementGuid>2a2a3a49-a450-4094-bbf5-53f07b197457</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cari Tahu Lebih Lanjut']/parent::*</value>
-      <webElementGuid>4c6f1b3f-c8c8-4cde-84b2-27928020b3df</webElementGuid>
+      <webElementGuid>97dd92fa-9248-4643-9c9e-36e5612613d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'produk/sgm-eksplor-3-plus')]</value>
-      <webElementGuid>650ff3dd-f2a4-4d98-b98b-2401c3e370ca</webElementGuid>
+      <webElementGuid>32820959-79f7-44cc-8d6f-2bc27575dffa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,7 +123,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/a</value>
-      <webElementGuid>8005b9c2-e472-44e2-930f-f661e6713257</webElementGuid>
+      <webElementGuid>fabdde49-974c-4323-bea0-ebef6aab5ea4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,6 +131,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'produk/sgm-eksplor-3-plus' and (text() = 'Cari Tahu Lebih Lanjut' or . = 'Cari Tahu Lebih Lanjut')]</value>
-      <webElementGuid>cce25f9e-da2c-4b49-9d2c-a5fa21750a79</webElementGuid>
+      <webElementGuid>8eb7f095-8611-45de-992c-d65704d2b448</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
