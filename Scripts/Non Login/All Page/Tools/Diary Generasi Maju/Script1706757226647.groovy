@@ -41,28 +41,20 @@ WebUI.back()
 
 WebUI.delay(3)
 
-//WebUI.executeJavaScript('window.scrollTo(0, 600);', null)
+//WebUI.switchToWindowIndex(0)
+WebUI.executeJavaScript('window.scrollTo(0, 800);', null)
 
 WebUI.click(findTestObject('Tools/button card next'))
 
-WebUI.delay(5)
+WebUI.click(findTestObject('Tools/button card next'))
 
-WebUI.click(findTestObject('Tools/card_Lihat Selengkapnya'))
+WebUI.click(findTestObject('Tools/button card next'))
 
-//WebUI.back()
-//
-//WebUI.click(findTestObject('Tools/button card next'))
-//
-//WebUI.delay(1)
-//WebUI.click(findTestObject('Tools/card_Lihat Selengkapnya'))
-//
-//
-//WebUI.back()
-//
-//WebUI.click(findTestObject('Tools/button card next'))
-//
-//WebUI.delay(1)
-//
-//WebUI.click(findTestObject('Tools/card_Lihat Selengkapnya'))
-//
-//WebUI.back()
+WebUI.click(findTestObject('Tools/card artikel terkait'))
+
+WebUI.delay(3)
+
+WebUI.back()
+
+WebUI.click(findTestObject('Tools/banner daftar disini'))
+

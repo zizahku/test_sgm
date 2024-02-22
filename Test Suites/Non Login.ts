@@ -30,7 +30,7 @@ To ensure all page and button is work properly</description>
       <guid>c03d852c-1a88-4379-9abe-dd093af1a8b9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Non Login/All Page/Keluarga Generasi Maju/Resep Keluarga Generasi Maju</testCaseId>
+      <testCaseId>Test Cases/Non Login/All Page/Aktivitas Generasi Maju/Sekolah Generasi Maju</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
