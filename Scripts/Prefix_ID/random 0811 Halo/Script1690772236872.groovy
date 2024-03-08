@@ -22,11 +22,11 @@ import java.util.Random as random
 //WebUI.setText(findTestObject('Object Repository/Page_NamaHalaman/idField'), randomNum)
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://generasi.eydendigital.co.id/klub-generasi-maju/register')
+WebUI.navigateToUrl('https://generasimaju.co.id')
 
 WebUI.click(findTestObject('homepage/button_Daftar'))
 
-WebUI.setText(findTestObject('Register/input_Nama Lengkap_firstname'), 'azia')
+WebUI.setText(findTestObject('Register/input_Nama Lengkap_firstname'), 'test')
 
 // Isi field dalam form dengan angka acak
 String randomNum = generateRandomNumber()
